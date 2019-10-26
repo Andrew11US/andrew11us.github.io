@@ -162,6 +162,22 @@ section
 	position: relative;
 	box-sizing: border-box;
 }
+
+.section_title h1
+{
+	font-size: 36px;
+	color: #1f2128;
+	font-weight: 500;
+}
+.section_title h1 span
+{
+	font-weight: 600;
+}
+.section_title.light h1
+{
+	color: #FFFFFF;
+}
+
 .clear
 {
 	clear: both;
@@ -405,7 +421,10 @@ section
 }
 .main_nav ul li a:hover
 {
-	color: #ff3000;
+	color: #fdcb6e;
+	/* border-radius: 11px;
+	background-color: white;
+	padding: 6px; */
 }
 .header_right
 {
@@ -436,7 +455,8 @@ section
 }
 .social ul li:hover
 {
-	border-color: #ff3000;
+	/* border-color: #ffeaa7; */
+	background-color: white;
 }
 .social ul li a
 {
@@ -458,7 +478,7 @@ section
 }
 .social ul li:hover a i
 {
-	color: #ff3000;
+	color: #2d3436;
 }
 .submit
 {
@@ -487,11 +507,12 @@ section
 .submit:hover
 {
 	/* border-color: #ffffff; */
+	background-color: white;
 }
 .submit:hover a
 {
-	color: #242424;
-	background-color: #ffffff;
+	color: #2d3436;
+	/* background-color: #ffffff; */
 	border-radius: 16px;
 }
 .hamburger
@@ -612,13 +633,13 @@ section
 }
 .menu_nav_list li a:hover
 {
-	color: #ff3500;
+	color: #ffeaa7;
 }
 .menu_extra
 {
 	position: absolute;
 	left: 0;
-	bottom: 15px;
+	bottom: 50px;
 	width: 100%;
 }
 .menu_submit
@@ -630,7 +651,7 @@ section
 {
 	white-space: nowrap;
 	line-height: 1.1;
-	font-size: 12px;
+	font-size: 16px;
 	font-weight: 400;
 	color: #FFFFFF;
 	-webkit-transition: all 200ms ease;
@@ -641,7 +662,7 @@ section
 }
 .menu_submit a:hover
 {
-	color: #ff3500;
+	color: #ffeaa7;
 }
 .menu .social
 {
@@ -659,6 +680,10 @@ section
 .home
 {
 	height: 830px;
+}
+.home_about
+{
+	height: 346px;
 }
 .home_container
 {
@@ -1263,10 +1288,11 @@ section
 }
 .footer_social ul li:hover
 {
-	border-color: #ff3500;
-	box-shadow: 0 0 1px 0px #ff3500 inset, 0 0 1px 0px #ff3500;
+	/* border-color: #ff3500; */
+	background-color: white;
+	/* box-shadow: 0 0 1px 0px #ff3500 inset, 0 0 1px 0px #ff3500; */
 }
 .footer_social ul li:hover a i
 {
-	color: #ff3500;
+	color: #2d3436;
 }
