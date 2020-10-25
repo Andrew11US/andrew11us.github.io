@@ -1,17 +1,19 @@
-{"title":"Bacterial Cell Structure","available":false,"topics":[
-	{"title":"Function","questions":[
-		{"answers":[
-			{"text":"Nucleoid","isCorrect":1},
-			{"text":"Plasmid","isCorrect":1},
-			{"text":"Ribosome","isCorrect":1},
-			{"text":"Cell wall - GP and GN","isCorrect":0}],
-		"text":"contains genetic material"},
-		{"answers":[
-			{"text":"Cell wall - mycobacteria","isCorrect":1},
-			{"text":"Plasmid","isCorrect":0},
-			{"text":"Flagella\/axial filaments","isCorrect":0},
-			{"text":"Teichoic acid, lipoteichoic acid","isCorrect":0}],
-		"text":"protect cytoplasmic membrane, rigidity"}
-		]}
-	]
-}
+[
+    {"title":"Bacterial Cell Structure","available":false,"topics":[
+        {"title":"Function","questions":[
+            {"answers":[
+                {"text":"Nucleoid","isCorrect":1},
+                {"text":"Plasmid","isCorrect":1},
+                {"text":"Ribosome","isCorrect":1},
+                {"text":"Cell wall - GP and GN","isCorrect":0}],
+                "text":"contains genetic material"},
+                {"answers":[
+                    {"text":"Cell wall - mycobacteria","isCorrect":1},
+                    {"text":"Plasmid","isCorrect":0},
+                    {"text":"Flagella\/axial filaments","isCorrect":0},
+                    {"text":"Teichoic acid, lipoteichoic acid","isCorrect":0}],
+                    "text":"protect cytoplasmic membrane, rigidity"}
+                    ]}
+                ]
+            }
+]
