@@ -64,7 +64,7 @@
             {"answers":[{"text":"Biofilm","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Lipopolysaccharide","isCorrect":0},{"text":"Endospores","isCorrect":1}],"text":"Survival in harsh environment"},
             {"answers":[{"text":"Endospores","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Lipopolysaccharide","isCorrect":0}],"text":"Protection from phagocytosis, attachment"}
         ]}
-    ]}
+    ]},
 
     {"title":"Bacterial Pathogenesis","available":false,"topics":[
         {"title":"Definitions","questions":[
@@ -92,12 +92,12 @@
             {"answers":[{"text":"Nerves","isCorrect":1},{"text":"Capsule","isCorrect":0},{"text":"Blood","isCorrect":1},{"text":"Lymphatics","isCorrect":1}],"text":"Invasion \/ dissemination"},
             {"answers":[{"text":"Biofilms","isCorrect":1},{"text":"Toxin production","isCorrect":1},{"text":"Capsule","isCorrect":1},{"text":"Enzymes","isCorrect":1}],"text":"Survival"},
             {"answers":[{"text":"Inflammation","isCorrect":1},{"text":"Antibodies","isCorrect":1},{"text":"Capsule","isCorrect":0},{"text":"Biofilms","isCorrect":0}],"text":"Host damage "}
-        ]}
+        ]},
 
         {"title":"Toxins","questions":[
             {"answers":[{"text":"Hypotension","isCorrect":1},{"text":"Fever","isCorrect":1},{"text":"Cell death","isCorrect":0},{"text":"Diarrhea","isCorrect":0}],"text":"Endotoxin"},
             {"answers":[{"text":"Fever","isCorrect":1},{"text":"Cell death","isCorrect":1},{"text":"Vasodialation","isCorrect":0},{"text":"Diarrhea","isCorrect":1}],"text":"Exotoxin"}
-        ]}
+        ]},
 
         {"title":"Controlling growth","questions":[
             {"answers":[{"text":"Chemicals","isCorrect":1},{"text":"Autoclave","isCorrect":1},{"text":"Alcohol, iodine","isCorrect":0},{"text":"Radiation","isCorrect":1}],"text":"Sterilization"},
