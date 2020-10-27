@@ -33,4 +33,43 @@
             {"answers":[{"text":"Replication","isCorrect":0},{"text":"Resistance","isCorrect":1},{"text":"Control of gene expression","isCorrect":1},{"text":"Recombination","isCorrect":0}],"text":"Operon: cluster of co-regulated genes. Pathogenicity island: group of genes for virulence mech under control of one promoter"}
         ]},
     ]},
+
+    {"title":"Bacterial Cell Structure","available":false,"topics":[
+        {"title":"Notes","questions":[
+            {"answers":[{"text":"Cell wall - GP and GN","isCorrect":0},{"text":"Pili-fimbriae ","isCorrect":0},{"text":"Nucleoid","isCorrect":1},{"text":"Granules","isCorrect":0}],"text":"No nuclear membrane"},
+            {"answers":[{"text":"Plasmid","isCorrect":1},{"text":"Pili-fimbriae ","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"May be lost without selective pressure"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Pili-fimbriae ","isCorrect":0},{"text":"Ribosome","isCorrect":1},{"text":"Cell wall - GP and GN","isCorrect":0}],"text":"Target for antibiotics"},
+            {"answers":[{"text":"Granules","isCorrect":1},{"text":"Pili-fimbriae ","isCorrect":0},{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0}],"text":"C. diphtheriae has metachromic granules"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Cytoplasmic membrane","isCorrect":1},{"text":"Ribosome","isCorrect":0},{"text":"Plasmid","isCorrect":0}],"text":"No sterols, except Mycoplasma"},
+            {"answers":[{"text":"Cytoplasmic membrane","isCorrect":0},{"text":"Flagella filaments","isCorrect":1},{"text":"Cell wall","isCorrect":0},{"text":"Teichoic acid, lipoteichoic acid","isCorrect":0}],"text":"Internal flagella provide corkscrew motility for spirochetes"},
+            {"answers":[{"text":"Flagella filaments","isCorrect":0},{"text":"Glycocalyx","isCorrect":1},{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":0}],"text":"Adherent = capsule, loose = slime layer"}
+        ]},
+
+        {"title":"Composition","questions":[
+            {"answers":[{"text":"Nucleoid","isCorrect":1},{"text":"Outer membrane","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Plasmid","isCorrect":1}],"text":"Circular double-stranded DNA"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Nucleoid","isCorrect":0},{"text":"Ribosome","isCorrect":1}],"text":"30S & 50S subunits = 70S"},
+            {"answers":[{"text":"Ribosome","isCorrect":0},{"text":"Membrane","isCorrect":1},{"text":"Nucleoid","isCorrect":0},{"text":"Plasmid","isCorrect":0}],"text":"Phospholipid bilayer with proteins"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0},{"text":"Membrane","isCorrect":1},{"text":"Nucleoid","isCorrect":0}],"text":"Phospholipid bilayer with proteins and porins"},
+            {"answers":[{"text":"Filaments","isCorrect":1},{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"Protein"},
+            {"answers":[{"text":"Ribosome","isCorrect":0},{"text":"Nucleoid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Cell wall","isCorrect":1}],"text":"Peptidoglycan, lipoarabinomannan, mycolic acid"},
+            {"answers":[{"text":"Endospores","isCorrect":1},{"text":"Granules","isCorrect":0},{"text":"Biofilm","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"Calcium dipicolinate"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Endospores","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Nucleoid","isCorrect":0}],"text":" polysaccharide matrix"},
+            {"answers":[{"text":"Nucleoid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Endospores","isCorrect":0},{"text":"Periplasmic space","isCorrect":1}],"text":"Storage space"},
+            {"answers":[{"text":"Nucleoid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Glycocalyx","isCorrect":1},{"text":"Endospores","isCorrect":0}],"text":"Usually polysaccharides"}
+        ]},
+
+        {"title":"Function","questions":[
+            {"answers":[{"text":"Ribosome","isCorrect":0},{"text":"Nucleoid","isCorrect":0},{"text":"Plasmid","isCorrect":0},{"text":"Granules","isCorrect":1}],"text":"Storage of nutrients"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":1},{"text":"Granules","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"Protein synthesis"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Plasmid","isCorrect":1},{"text":"Nucleoid","isCorrect":0},{"text":"Ribosome","isCorrect":0}],"text":"Contains genes (antibiotic resistance, virulence)"},
+            {"answers":[{"text":"Nucleoid","isCorrect":1},{"text":"Granules","isCorrect":0},{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0}],"text":"Contains genetic material"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Ribosome","isCorrect":0},{"text":"Outer membrane","isCorrect":0},{"text":"Cell wall","isCorrect":1}],"text":"Protect cytoplasmic membrane, rigidity"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":1},{"text":"Cell wall","isCorrect":0}],"text":"Adherence, inflammatory"},
+            {"answers":[{"text":"Cell wall","isCorrect":0},{"text":"Teichoic acid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Outer membrane","isCorrect":1}],"text":"Hydrophobic permeability barrier"},
+            {"answers":[{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":0},{"text":"Periplasmic space","isCorrect":1},{"text":"Cell wall","isCorrect":0}],"text":"Contains thin peptidoglycan layer"},
+            {"answers":[{"text":"Lipopolysaccharide","isCorrect":1},{"text":"Endospores","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":0}],"text":"Antigenic (O antigen), toxic (lipid A)"},
+            {"answers":[{"text":"Biofilm","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Lipopolysaccharide","isCorrect":0},{"text":"Endospores","isCorrect":1}],"text":"Survival in harsh environment"},
+            {"answers":[{"text":"Endospores","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Lipopolysaccharide","isCorrect":0}],"text":"Protection from phagocytosis, attachment"}
+        ]}
+    ]},
 ]
