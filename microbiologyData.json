@@ -1,4 +1,11 @@
 [
+    {"title":"Bacterial Cell Structure","available":false,"topics":[
+        {"title":"Function","questions":[
+            {"answers":[{"text":"Nucleoid","isCorrect":1},{"text":"Plasmid","isCorrect":1},{"text":"Ribosome","isCorrect":1},{"text":"Cell wall - GP and GN","isCorrect":0}],"text":"contains genetic material"},
+            {"answers":[{"text":"Cell wall - mycobacteria","isCorrect":1},{"text":"Plasmid","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Teichoic acid, lipoteichoic acid","isCorrect":0}],"text":"protect cytoplasmic membrane, rigidity"}
+        ]}
+    ]},
+
     {"title":"Bacterial cell Growth and Genetics","available":false,"topics":[
         {"title":"Growth","questions":[
             {"answers":[{"text":"Mixed culture","isCorrect":0},{"text":"Pure culture","isCorrect":1},{"text":"Stationary phase","isCorrect":0},{"text":"Binary fission","isCorrect":0}],"text":"Only 1 type of bacteria"},
@@ -24,6 +31,6 @@
             {"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Mutations","isCorrect":1},{"text":"Induction of lac operon","isCorrect":0},{"text":"Gene transfer","isCorrect":0}],"text":"Change in single nucleotide"},
             {"answers":[{"text":"Resistance","isCorrect":1},{"text":"Induction of lac operon","isCorrect":0},{"text":"Gene transfer","isCorrect":0},{"text":"Mutations","isCorrect":0}],"text":"Horizontal transfer via gene transfer mechanisms (above)"}
             {"answers":[{"text":"Replication","isCorrect":0},{"text":"Resistance","isCorrect":1},{"text":"Control of gene expression","isCorrect":1},{"text":"Recombination","isCorrect":0}],"text":"Operon: cluster of co-regulated genes. Pathogenicity island: group of genes for virulence mech under control of one promoter"}
-        ]},
+        ]}
     ]}
 ]
