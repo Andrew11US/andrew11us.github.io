@@ -1,20 +1,4 @@
 [
-    {"title":"Bacterial Cell Structure","available":false,"topics":[
-        {"title":"Function","questions":[
-            {"answers":[
-                {"text":"Nucleoid","isCorrect":1},
-                {"text":"Plasmid","isCorrect":1},
-                {"text":"Ribosome","isCorrect":1},
-                {"text":"Cell wall - GP and GN","isCorrect":0}],
-                "text":"contains genetic material"},
-                {"answers":[
-                    {"text":"Cell wall - mycobacteria","isCorrect":1},
-                    {"text":"Plasmid","isCorrect":0},
-                    {"text":"Flagella\/axial filaments","isCorrect":0},
-                    {"text":"Teichoic acid, lipoteichoic acid","isCorrect":0}],
-                    "text":"protect cytoplasmic membrane, rigidity"}
-                    ]}]},
-
     {"title":"Bacterial cell Growth and Genetics","available":false,"topics":[
         {"title":"Growth","questions":[
             {"answers":[{"text":"Mixed culture","isCorrect":0},{"text":"Pure culture","isCorrect":1},{"text":"Stationary phase","isCorrect":0},{"text":"Binary fission","isCorrect":0}],"text":"Only 1 type of bacteria"},
@@ -28,10 +12,53 @@
             {"answers":[{"text":"Psychrophiles","isCorrect":0},{"text":"Mesophiles","isCorrect":1},{"text":"Aerophiles","isCorrect":0},{"text":"Thermophiles","isCorrect":0}],"text":"20-40 deg C (human pathogens)"},
             {"answers":[{"text":"Needs Nitrogen","isCorrect":0},{"text":"Needs Oxygen","isCorrect":1},{"text":"Needs CO2","isCorrect":0},{"text":"Don’t need Oxygen","isCorrect":0}],"text":"Obligate aerobe"}]},
 
-            {"title":"Genetics","questions":[{"answers":[{"text":"Translation","isCorrect":0},{"text":"Transcription","isCorrect":0},{"text":"Replication","isCorrect":1},{"text":"Control of gene expression","isCorrect":0}],"text":"Helicase and topoisomerase (e.g. gyrase) separate and unwind. Quinolone drugs target gyrase."},{"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Replication","isCorrect":0},{"text":"Translation","isCorrect":0},{"text":"Transcription","isCorrect":1}],"text":"DNA dependent RNA pol which is target for drug rifampin. Polycistronic mRNA. Coupled with translation."},{"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Translation","isCorrect":1},{"text":"Transcription","isCorrect":0},{"text":"Replication","isCorrect":0}],"text":"70s ribosome made of 30s and 50s subunits. Target for several antimicrobial agents."},{"answers":[{"text":"Control of gene expression","isCorrect":1},{"text":"Translation","isCorrect":0},{"text":"Transcription","isCorrect":0},{"text":"Replication","isCorrect":0}],"text":"Sigma factors: bind to RNA and recognize promoter. Allows for specificity"},{"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Induction of lac operon","isCorrect":1},{"text":"Recombination","isCorrect":0},{"text":"Gene transfer","isCorrect":0}],"text":"Glucose is preferred substrate. If glucose is present, no expression of lac operon"},{"answers":[{"text":"Gene transfer","isCorrect":0},{"text":"Induction of lac operon","isCorrect":0},{"text":"Control of gene expression","isCorrect":0},{"text":"Recombination","isCorrect":1}],"text":"Homologous: gene exchange process that needs homology between DNA strands. Requires recombinase A"},
+        {"title":"Genetics","questions":[
+            {"answers":[{"text":"Translation","isCorrect":0},{"text":"Transcription","isCorrect":0},{"text":"Replication","isCorrect":1},{"text":"Control of gene expression","isCorrect":0}],"text":"Helicase and topoisomerase (e.g. gyrase) separate and unwind. Quinolone drugs target gyrase."},
+            {"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Replication","isCorrect":0},{"text":"Translation","isCorrect":0},{"text":"Transcription","isCorrect":1}],"text":"DNA dependent RNA pol which is target for drug rifampin. Polycistronic mRNA. Coupled with translation."},
+            {"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Translation","isCorrect":1},{"text":"Transcription","isCorrect":0},{"text":"Replication","isCorrect":0}],"text":"70s ribosome made of 30s and 50s subunits. Target for several antimicrobial agents."},
+            {"answers":[{"text":"Control of gene expression","isCorrect":1},{"text":"Translation","isCorrect":0},{"text":"Transcription","isCorrect":0},{"text":"Replication","isCorrect":0}],"text":"Sigma factors: bind to RNA and recognize promoter. Allows for specificity"},
+            {"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Induction of lac operon","isCorrect":1},{"text":"Recombination","isCorrect":0},{"text":"Gene transfer","isCorrect":0}],"text":"Glucose is preferred substrate. If glucose is present, no expression of lac operon"},
+            {"answers":[{"text":"Gene transfer","isCorrect":0},{"text":"Induction of lac operon","isCorrect":0},{"text":"Control of gene expression","isCorrect":0},{"text":"Recombination","isCorrect":1}],"text":"Homologous: gene exchange process that needs homology between DNA strands. Requires recombinase A"},
             {"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Gene transfer","isCorrect":1},{"text":"Recombination","isCorrect":0},{"text":"Induction of lac operon","isCorrect":0}],"text":"Transposon:can move from one DNA site to another"},
             {"answers":[{"text":"Control of gene expression","isCorrect":0},{"text":"Mutations","isCorrect":1},{"text":"Induction of lac operon","isCorrect":0},{"text":"Gene transfer","isCorrect":0}],"text":"Change in single nucleotide"},
-            {"answers":[{"text":"Resistance","isCorrect":1},{"text":"Induction of lac operon","isCorrect":0},{"text":"Gene transfer","isCorrect":0},{"text":"Mutations","isCorrect":0}],"text":"Horizontal transfer via gene transfer mechanisms (above)"}]}
+            {"answers":[{"text":"Resistance","isCorrect":1},{"text":"Induction of lac operon","isCorrect":0},{"text":"Gene transfer","isCorrect":0},{"text":"Mutations","isCorrect":0}],"text":"Horizontal transfer via gene transfer mechanisms (above)"}]},
+            {"answers":[{"text":"Replication","isCorrect":0},{"text":"Resistance","isCorrect":1},{"text":"Control of gene expression","isCorrect":1},{"text":"Recombination","isCorrect":0}],"text":"Operon: cluster of co-regulated genes. Pathogenicity island: group of genes for virulence mech under control of one promoter"}
+    ]},
+
+    {"title":"Bacterial Cell Structure","available":false,"topics":[
+        {"title":"Notes","questions":[
+            {"answers":[{"text":"Cell wall - GP and GN","isCorrect":0},{"text":"Pili\/fimbriae ","isCorrect":0},{"text":"Nucleoid","isCorrect":1},{"text":"Granules","isCorrect":0}],"text":"No nuclear membrane"},
+            {"answers":[{"text":"Plasmid","isCorrect":1},{"text":"Pili\/fimbriae ","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"May be lost without selective pressure"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Pili\/fimbriae ","isCorrect":0},{"text":"Ribosome","isCorrect":1},{"text":"Cell wall - GP and GN","isCorrect":0}],"text":"Target for antibiotics"},
+            {"answers":[{"text":"Granules","isCorrect":1},{"text":"Pili\/fimbriae ","isCorrect":0},{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0}],"text":"C. diphtheriae has metachromic granules"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Cytoplasmic membrane","isCorrect":1},{"text":"Ribosome","isCorrect":0},{"text":"Plasmid","isCorrect":0}],"text":"No sterols, except Mycoplasma"},
+            {"answers":[{"text":"Cytoplasmic membrane","isCorrect":0},{"text":"Flagella filaments","isCorrect":1},{"text":"Cell wall","isCorrect":0},{"text":"Teichoic acid, lipoteichoic acid","isCorrect":0}],"text":"Internal flagella provide corkscrew motility for spirochetes"},
+            {"answers":[{"text":"Flagella filaments","isCorrect":0},{"text":"Glycocalyx","isCorrect":1},{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":0}],"text":"Adherent = capsule, loose = slime layer"}]},
+
+        {"title":"Composition","questions":[
+            {"answers":[{"text":"Nucleoid","isCorrect":1},{"text":"Outer membrane","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Plasmid","isCorrect":1}],"text":"Circular double-stranded DNA"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Nucleoid","isCorrect":0},{"text":"Ribosome","isCorrect":1}],"text":"30S & 50S subunits = 70S"},
+            {"answers":[{"text":"Ribosome","isCorrect":0},{"text":"Membrane","isCorrect":1},{"text":"Nucleoid","isCorrect":0},{"text":"Plasmid","isCorrect":0}],"text":"Phospholipid bilayer with proteins"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0},{"text":"Membrane","isCorrect":1},{"text":"Nucleoid","isCorrect":0}],"text":"Phospholipid bilayer with proteins and porins"},
+            {"answers":[{"text":"Filaments","isCorrect":1},{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"Protein"},
+            {"answers":[{"text":"Ribosome","isCorrect":0},{"text":"Nucleoid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Cell wall","isCorrect":1}],"text":"Peptidoglycan, lipoarabinomannan, mycolic acid"},
+            {"answers":[{"text":"Endospores","isCorrect":1},{"text":"Granules","isCorrect":0},{"text":"Biofilm","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"Calcium dipicolinate"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Endospores","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Nucleoid","isCorrect":0}],"text":" polysaccharide matrix"},
+            {"answers":[{"text":"Nucleoid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Endospores","isCorrect":0},{"text":"Periplasmic space","isCorrect":1}],"text":"Storage space"},
+            {"answers":[{"text":"Nucleoid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Glycocalyx","isCorrect":1},{"text":"Endospores","isCorrect":0}],"text":"Usually polysaccharides"}]},
+
+        {"title":"Function","questions":[
+            {"answers":[{"text":"Ribosome","isCorrect":0},{"text":"Nucleoid","isCorrect":0},{"text":"Plasmid","isCorrect":0},{"text":"Granules","isCorrect":1}],"text":"Storage of nutrients"},
+            {"answers":[{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":1},{"text":"Granules","isCorrect":0},{"text":"Nucleoid","isCorrect":0}],"text":"Protein synthesis"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Plasmid","isCorrect":1},{"text":"Nucleoid","isCorrect":0},{"text":"Ribosome","isCorrect":0}],"text":"Contains genes (antibiotic resistance, virulence)"},
+            {"answers":[{"text":"Nucleoid","isCorrect":1},{"text":"Granules","isCorrect":0},{"text":"Plasmid","isCorrect":0},{"text":"Ribosome","isCorrect":0}],"text":"Contains genetic material"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Ribosome","isCorrect":0},{"text":"Outer membrane","isCorrect":0},{"text":"Cell wall","isCorrect":1}],"text":"Protect cytoplasmic membrane, rigidity"},
+            {"answers":[{"text":"Granules","isCorrect":0},{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":1},{"text":"Cell wall","isCorrect":0}],"text":"Adherence, inflammatory"},
+            {"answers":[{"text":"Cell wall","isCorrect":0},{"text":"Teichoic acid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Outer membrane","isCorrect":1}],"text":"Hydrophobic permeability barrier"},
+            {"answers":[{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":0},{"text":"Periplasmic space","isCorrect":1},{"text":"Cell wall","isCorrect":0}],"text":"Contains thin peptidoglycan layer"},
+            {"answers":[{"text":"Lipopolysaccharide","isCorrect":1},{"text":"Endospores","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":0}],"text":"Antigenic (O antigen), toxic (lipid A)"},
+            {"answers":[{"text":"Biofilm","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Lipopolysaccharide","isCorrect":0},{"text":"Endospores","isCorrect":1}],"text":"Survival in harsh environment"},
+            {"answers":[{"text":"Endospores","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Lipopolysaccharide","isCorrect":0}],"text":"Protection from phagocytosis, attachment"}]}
     ]}
 
 ]
