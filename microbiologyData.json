@@ -238,13 +238,70 @@
         ]},
 
         {"title":"Treatment","questions":[
-            {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Trench fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":1}],"text":"Doxycycline or Penicillin "},
+            {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Trench fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":1}],"text":"Doxycycline or Penicillin"},
             {"answers":[{"text":"Trench fever","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":0}],"text":"Doxycycline + gentamicin"},
             {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":1},{"text":"Trench fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":0}],"text":"Doxycycline or amoxicillin"},
             {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Leptospirosis","isCorrect":0},{"text":"Trench fever","isCorrect":0}],"text":"Doxycycline or tetracycline"},
             {"answers":[{"text":"Tularemia","isCorrect":1},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0}],"text":"Streptomycin or gentamicin"},
             {"answers":[{"text":"Plague","isCorrect":1},{"text":"Rickettsialpox","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Tularemia","isCorrect":0}],"text":"Streptomycin or gentamicin, quarantine"},
             {"answers":[{"text":"Plague","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":1},{"text":"Rickettsialpox","isCorrect":1},{"text":"Tularemia","isCorrect":0}],"text":"Doxycycline"}
+        ]}
+    ]},
+
+    {"title":"Infective Endocarditis","available":false,"topics":[
+        {"title":"Characteristics","questions":[
+            {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1}],"text":"GPC, clusters, catalase(+), coagluase(+), salt tolerant, mannitol(+)"},
+            {"answers":[{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"GPC, clusters, catalase(+), coagulase(-), salt tolerant, mannitol(-)"},
+            {"answers":[{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":1},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"GPC, chains, catalase(-)"},
+            {"answers":[{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":1}],"text":"GPC, single cells, diplococci or short chains, catalase(-), Lancefield antigen: group D"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Aerobic GNR, motile, oxidase(+),Produces pigments  "},
+            {"answers":[{"text":"HACEK group","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"Aggregatibacter (Haemophilus) aphrophilus; Aggregatibacter actinomycetemcomitans; Cardiobacterium hominis; Eikenella corrodens; Kingella kingae"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Normal flora (nasal mucosa,  skin)"},
+            {"answers":[{"text":"Staphylococcus epidermidis","isCorrect":1},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Normal skin flora"},
+            {"answers":[{"text":"Viridans Streptococci","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Normal flora of oral and nasopharyngeal cavities (dental caries)"},
+            {"answers":[{"text":"HACEK group","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Streptococcus bovis ","isCorrect":1}],"text":"Normal intestinal flora"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Streptococcus bovis ","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Ubiquitous: minimal nutritional requirements"},
+            {"answers":[{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Streptococcus bovis ","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"HACEK group","isCorrect":1}],"text":"Normal oropharyngeal flora"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Staphylococcus aureus","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Often nosocomial or result of perioperative wound contamination"},
+            {"answers":[{"text":"Staphylococcus aureus","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Catheter & prosthetic device infections - nosocomial infections"},
+            {"answers":[{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":1},{"text":"HACEK group","isCorrect":0}],"text":"Access bloodstream during dental/oral surgery"},
+            {"answers":[{"text":"Enterococcus faecalis","isCorrect":1},{"text":"Viridans Streptococci","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":" medical procedures – nosocomial infections "},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0}],"text":"Nosocomial infections"},
+            {"answers":[{"text":"HACEK group","isCorrect":1},{"text":"Viridans Streptococci","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0}],"text":"Normal oropharyngeal flora"}
+        ]},
+
+        {"title":"Most common type","questions":[
+            {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1}],"text":"Most common cause of acute IE: native valve (abnormal or normal), prosthetic valve (early) IV drug user (tricuspid valve)"},
+            {"answers":[{"text":"HACEK group","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"Prosthetic valve"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Most common cause of subacute IE (abnormal or damaged valves)"},
+            {"answers":[{"text":"HACEK group","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":1},{"text":"Streptococcus bovis ","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":" Subacute IE "},
+            {"answers":[{"text":"Enterococcus faecalis","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Streptococcus bovis ","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":1}],"text":"Uncommon complications of pseudomonas bacteremia ; Causes IE in IV drug users and patients with prosthetic heart valves"},
+            {"answers":[{"text":"HACEK group","isCorrect":1},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Streptococcus bovis ","isCorrect":0}],"text":" Subacute IE (uncommon)"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1}],"text":"High virulence; Protein A: inhibits phagocytosis; Fibrinogen-binding protein:clumping factor; Coagulases: fibrinogen to a fibrin clot; Cytotoxic toxins:pore-forming toxins; Hyaluronidase breaks down connective tissue; MRSA"},
+            {"answers":[{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":1}],"text":"Low virulence, biofilm: dextran-mediated adherence to platelet-firbin aggregates that form on damaged heart valve surfaces, FimA surface adhesin"},
+            {"answers":[{"text":"HACEK group","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1},{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"Biofilm: adherence + protection"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Streptococcus bovis ","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":1}],"text":"Antibiotic resistant"},
+            {"answers":[{"text":"Streptococcus bovis ","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Associated with colon cancer"},
+            {"answers":[{"text":"Streptococcus bovis ","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Enterococcus faecalis","isCorrect":0}],"text":"Exotoxin A (inhibits protein synthesis), capsule, LPS"},
+            {"answers":[{"text":"Streptococcus bovis ","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"HACEK group","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":" Subacute IE (uncommon)"}
+        ]},
+
+        {"title":"Culture","questions":[
+            {"answers":[{"text":"Streptococcus bovis ","isCorrect":0},{"text":"HACEK group","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0}],"text":"Fastidious GNRs requires 5-10% carbon dioxide for growth + 3 wks incubation"},
+            {"answers":[{"text":"HACEK group","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Streptococcus bovis ","isCorrect":0}],"text":"Culture: pigments production, fruity odor"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Streptococcus bovis ","isCorrect":1},{"text":"HACEK group","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":1}],"text":"Bile resistant, growth in 6.5% NaCL, PYR(+)"},
+            {"answers":[{"text":"Staphylococcus aureus","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":1},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Culture: α-hemolytic, optochin resistant,  bile resistant"},
+            {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1}],"text":"Culture: no hemolysis; MSA colorless colonies"},
+            {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0}],"text":"Culture: mannitol-salt agar: yellow colonies, β-hemolysis"}
         ]}
     ]}
 ]
