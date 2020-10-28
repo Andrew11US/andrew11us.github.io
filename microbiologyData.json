@@ -426,5 +426,129 @@
             {"answers":[{"text":"Otitis and sinusitis","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Strep throat","isCorrect":1},{"text":"Diphtheria","isCorrect":0}],"text":"Respiratory droplets or direct contact"},
             {"answers":[{"text":"Diphtheria","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":1},{"text":"Strep throat","isCorrect":0}],"text":"Respiratory droplets"}
         ]}
+    ]},
+
+    {"title":"Fungal Respiratory Infections","available":false,"topics":[
+        {"title":"Pathogen","questions":[
+            {"answers":[{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":1}],"text":"Coccidioides immitis "},
+            {"answers":[{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":1}],"text":"Histoplasma capsulatum "},
+            {"answers":[{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":1}],"text":"Blastomyces dermatitidis "},
+            {"answers":[{"text":"Paracoccidioidomycosis","isCorrect":1},{"text":"Histoplasmosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":0}],"text":"Paracoccidioides brasiliensis "},
+            {"answers":[{"text":"Zygomycosis","isCorrect":0},{"text":"Aspergillosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":1},{"text":"Pneumocystosis","isCorrect":0}],"text":"Cryptococcus neoformans "},
+            {"answers":[{"text":"Cryptococcosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Aspergillosis","isCorrect":1},{"text":"Zygomycosis","isCorrect":0}],"text":"Aspergillus fumigatus"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":1},{"text":"Cryptococcosis","isCorrect":0},{"text":"Aspergillosis","isCorrect":0}],"text":"Rhizopus"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":1},{"text":"Cryptococcosis","isCorrect":0},{"text":"Aspergillosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0}],"text":"Pneumocystis jiroveci "},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1},{"text":"Zygomycosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0}],"text":"Paragonimus species"}
+        ]},
+
+        {"title":"Characteristics","questions":[
+            {"answers":[{"text":"Zygomycosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1},{"text":"Cryptococcosis","isCorrect":0}],"text":"Trematode (Lung Fluke)"},
+            {"answers":[{"text":"Paragonimiasis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":1}],"text":"Single-celled eukaryotic microorganism; No ergosterol in the cell membrane"},
+            {"answers":[{"text":"Paragonimiasis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":1}],"text":"Filamentous fungus (mold)"},
+            {"answers":[{"text":"Paragonimiasis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":1}],"text":"Encapsulated yeast "},
+            {"answers":[{"text":"Paracoccidioidomycosis","isCorrect":1},{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0}],"text":"Budding yeasts with “pilot wheel” morphology"},
+            {"answers":[{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":1},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0}],"text":"Single broad-based budding yeasts"},
+            {"answers":[{"text":"Histoplasmosis","isCorrect":1},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":0}],"text":"Intracellular budding yeasts in reticuloendothelial cells"},
+            {"answers":[{"text":"Blastomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":1},{"text":"Paracoccidioidomycosis","isCorrect":0}],"text":"Culture 37C: mold; Tissue: spherules filled with endospores "}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":1}],"text":"Desert sand - Southwest US"},
+            {"answers":[{"text":"Blastomycosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":1}],"text":"Soil contaminated by bird or bat feces - Mississippi River Basin"},
+            {"answers":[{"text":"Blastomycosis","isCorrect":1},{"text":"Histoplasmosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":0}],"text":"Soil with decaying organic material - Midwest / Eastern US"},
+            {"answers":[{"text":"Histoplasmosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":1},{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0}],"text":"Soil - South America"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":1},{"text":"Aspergillosis","isCorrect":0}],"text":"Soil – enriched with pigeon droppings"},
+            {"answers":[{"text":"Aspergillosis","isCorrect":1},{"text":"Pneumocystosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":1}],"text":"Ubiquitous in soil "},
+            {"answers":[{"text":"Aspergillosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":1},{"text":"Zygomycosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0}],"text":"Unclear"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1},{"text":"Pneumocystosis","isCorrect":0}],"text":"Crustaceans"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1}],"text":"Ingestion"},
+            {"answers":[{"text":"Zygomycosis","isCorrect":1},{"text":"Pneumocystosis","isCorrect":1},{"text":"Histoplasmosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":0}],"text":"Inhalation from environment / Human-to-human transmission Pneumocystis only"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":1},{"text":"Coccidioidimycosis","isCorrect":1}],"text":"Inhalation of dust containing conidia/ No human-to-human transmission"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":1},{"text":"Histoplasmosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0}],"text":"Life cycle of alternating spherules and progeny endospores; dissemination via endospore propagation (skin, CNS, bone…)"},
+            {"answers":[{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":1},{"text":"Histoplasmosis","isCorrect":0}],"text":"Bind to host cells turn into yeast (extracellular); dissemination: multiple organs, skin (cutaneous form)"},
+            {"answers":[{"text":"Blastomycosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":1},{"text":"Paracoccidioidomycosis","isCorrect":0}],"text":"Conidia turn into yeast cells  multiplication inside macrophages; dissemination via macrophages  skin, reticuloendothelial system"},
+            {"answers":[{"text":"Blastomycosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":1},{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0}],"text":"Bind to host cells turn into yeast cells; dissemination: skin , mucosa, lymphoid organs…"},
+            {"answers":[{"text":"Zygomycosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":1},{"text":"Aspergillosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0}],"text":"Inhalation of aerosolized yeast production of capsule in alveoli,multiplication granulomatous lesions dissemination (CNS)"},
+            {"answers":[{"text":"Aspergillosis","isCorrect":1},{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0}],"text":"Inhalation of conidia germination into hyphae  tissue invasion;angioinvasive fungi"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":1},{"text":"Aspergillosis","isCorrect":0}],"text":"Inhalation of sporangiospores hyphae formation angioinvasive fungi"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":1},{"text":"Aspergillosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0}],"text":"Inhalation proliferation in alveoli foamy/honeycomb alveolar exudate dissemination is rare"},
+            {"answers":[{"text":"Zygomycosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1},{"text":"Pneumocystosis","isCorrect":0}],"text":"Parasite ingested  migrates from intestines to lungs  produces eggs"}
+        ]},
+
+        {"title":"Clinical presentation","questions":[
+            {"answers":[{"text":"Cryptococcosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1},{"text":"Zygomycosis","isCorrect":0}],"text":"Coughing, bloody sputum, eosinophilia"},
+            {"answers":[{"text":"Paragonimiasis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":1},{"text":"Zygomycosis","isCorrect":0}],"text":"Interstitial pneumonia; extrapulmonary manifestations "},
+            {"answers":[{"text":"Cryptococcosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":1}],"text":"Rhinocerebral (especially in diabetic & leukemic pts.), pulmonary, gastrointestinal, cutaneous, disseminated zygomycoses"},
+            {"answers":[{"text":"Cryptococcosis","isCorrect":1},{"text":"Paragonimiasis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0}],"text":"Pulmonary infections, dissemination (meningitis in AIDS patients)"},
+            {"answers":[{"text":"Aspergillosis","isCorrect":1},{"text":"Histoplasmosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":0}],"text":"Allergic bronchopulmonary aspergillosis; Fungal Ball (aspergilloma); Invasive pulmonary aspergillosis; especially in neutropenic patients"},
+            {"answers":[{"text":"Aspergillosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":1}],"text":"Acute or chronic pneumonia; ulcerative lesions of oral mucosa"},
+            {"answers":[{"text":"Aspergillosis","isCorrect":0},{"text":"Paracoccidioidomycosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":1}],"text":"Acute pneumonia or chronic TB-like disease; dissemination to skin and bones"},
+            {"answers":[{"text":"Histoplasmosis","isCorrect":1},{"text":"Coccidioidimycosis","isCorrect":0},{"text":"Aspergillosis","isCorrect":0},{"text":"Blastomycosis","isCorrect":0}],"text":"Fungus flu (acute pneumonia); chronic TB-like disease"},
+            {"answers":[{"text":"Aspergillosis","isCorrect":0},{"text":"Histoplasmosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":1},{"text":"Blastomycosis","isCorrect":0}],"text":"Vally fever (flu-like); desert bumps (lesions on skin, bone, CNS)"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Blastomycosis","isCorrect":1},{"text":"Histoplasmosis","isCorrect":0},{"text":"Aspergillosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":1}],"text":"Microscopy, culture on sabouraud agar (25C vs. 37C), serology (antibody detection tests), skin test, X-ray"},
+            {"answers":[{"text":"Blastomycosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":0},{"text":"Zygomycosis","isCorrect":1},{"text":"Aspergillosis","isCorrect":1}],"text":"Microscopy, culture on sabouraud agar, serologic tests,  X-ray"},
+            {"answers":[{"text":"Zygomycosis","isCorrect":0},{"text":"Aspergillosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1},{"text":"Blastomycosis","isCorrect":0}],"text":"Microscopy"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Blastomycosis","isCorrect":0},{"text":"Coccidioidimycosis","isCorrect":1},{"text":"Zygomycosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":0}],"text":"Mild to moderate diseases: azole derivatives (e.g. itraconazole); Severe or disseminated diseases: amphotericin B "},
+            {"answers":[{"text":"Paragonimiasis","isCorrect":0},{"text":"Zygomycosis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":1}],"text":"Azoles"},
+            {"answers":[{"text":"Paragonimiasis","isCorrect":0},{"text":"Pneumocystosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Zygomycosis","isCorrect":1}],"text":"Amphotericin B"},
+            {"answers":[{"text":"Pneumocystosis","isCorrect":1},{"text":"Zygomycosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0}],"text":"TMP-SMZ"},
+            {"answers":[{"text":"Zygomycosis","isCorrect":0},{"text":"Cryptococcosis","isCorrect":0},{"text":"Paragonimiasis","isCorrect":1},{"text":"Pneumocystosis","isCorrect":0}],"text":"Antihelminthic drug"}
+        ]}
+    ]},
+
+    {"title":"Urinary Tract Infections","available":false,"topics":[
+        {"title":"Gram Stain","questions":[
+            {"answers":[{"text":"Escherichia coli","isCorrect":1},{"text":"Proteus mirabilis","isCorrect":1},{"text":"Enterococcus faecalis and faecium","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":0}],"text":"GNR"},
+            {"answers":[{"text":"Escherichia coli","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":0},{"text":"Enterococcus faecalis and faecium","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":1}],"text":"GPC, clusters"},
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Escherichia coli","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":0},{"text":"Enterococcus faecalis and faecium","isCorrect":1}],"text":"GPC, chains"}
+        ]},
+
+        {"title":"Biochemicals","questions":[
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Escherichia coli","isCorrect":1},{"text":"Enterococcus faecalis and faecium","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":0}],"text":"Lac (+); indole (+)"},
+            {"answers":[{"text":"Escherichia coli","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":1},{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Enterococcus faecalis and faecium","isCorrect":0}],"text":"Lac (-); urease (+)"},
+            {"answers":[{"text":"Serratia species","isCorrect":1},{"text":"Enterococcus faecalis and faecium","isCorrect":0},{"text":"Escherichia coli","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Lac (+ -); urease (-)"},
+            {"answers":[{"text":"Escherichia coli","isCorrect":0},{"text":"Serratia species","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Enterococcus faecalis and faecium","isCorrect":0}],"text":"Oxidase positive; does not ferment sugars (aerobe)"},
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":1},{"text":"Streptococcus agalactiae","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Enterococcus faecalis and faecium","isCorrect":0}],"text":"Catalase (+); coagulase (-); novobiocin resistant"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":1},{"text":"Enterococcus faecalis and faecium","isCorrect":1},{"text":"Streptococcus agalactiae","isCorrect":0}],"text":"Catalase (-); PYR (+); esculin hydrolysis; resistant to bacitracin & optochin, 40% bile salts, 6.5% NaCl"},
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Streptococcus agalactiae","isCorrect":1},{"text":"Enterococcus faecalis and faecium","isCorrect":0}],"text":"Catalase (-); CAMP (+); bacitracin resistant"}
+        ]},
+
+        {"title":"Properties","questions":[
+            {"answers":[{"text":"Enterococcus faecalis and faecium","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Streptococcus agalactiae","isCorrect":1}],"text":"Beta hemolytic; serogroup B"},
+            {"answers":[{"text":"Streptococcus agalactiae","isCorrect":0},{"text":"Enterococcus faecalis and faecium","isCorrect":1},{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Alpha or gamma hemolytic; serogroup D"},
+            {"answers":[{"text":"Streptococcus agalactiae","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":1},{"text":"Enterococcus faecalis and faecium","isCorrect":0}],"text":"Gamma hemolytic"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Serratia species","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":0}],"text":"Blue/green pigments; growth at 42°C, fluorescent; fruity odor"},
+            {"answers":[{"text":"Proteus mirabilis","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Serratia species","isCorrect":1}],"text":"Red pigment"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":1},{"text":"Serratia species","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":0}],"text":"Nonmotile"},
+            {"answers":[{"text":"Proteus mirabilis","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Serratia species","isCorrect":0}],"text":"Swarming"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Serratia species","isCorrect":1},{"text":"Klebsiella pneumoniae","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":1}],"text":"Gut normal flora"},
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Streptococcus agalactiae","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":1}],"text":"Environment"},
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":1},{"text":"Proteus mirabilis","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Streptococcus agalactiae","isCorrect":0}],"text":"Environment; skin and vagina normal flora"},
+            {"answers":[{"text":"Streptococcus agalactiae","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":0}],"text":"Gut normal flora"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Proteus mirabilis","isCorrect":1},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Escherichia coli","isCorrect":0}],"text":"LPS/Lipid A endotoxin; adhesins; swarming motility;↑ pH"},
+            {"answers":[{"text":"Proteus mirabilis","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Escherichia coli","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"LPS/Lipid A endotoxin; P-pilus; adhesins; motility"},
+            {"answers":[{"text":"Klebsiella pneumoniae","isCorrect":1},{"text":"Proteus mirabilis","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Escherichia coli","isCorrect":0}],"text":"LPS/Lipid A endotoxin; adhesins; capsule"},
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Streptococcus agalactiae","isCorrect":0}],"text":" LPS/Lipid A endotoxin; adhesins; capsule; exotoxin A; motility"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":1},{"text":"Streptococcus agalactiae","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0}],"text":"Adhesins; inflammation"},
+            {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Streptococcus agalactiae","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Capsule"}
+        ]}
     ]}
 ]
