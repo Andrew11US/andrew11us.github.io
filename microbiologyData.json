@@ -60,9 +60,9 @@
             {"answers":[{"text":"Granules","isCorrect":0},{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":1},{"text":"Cell wall","isCorrect":0}],"text":"Adherence, inflammatory"},
             {"answers":[{"text":"Cell wall","isCorrect":0},{"text":"Teichoic acid","isCorrect":0},{"text":"Granules","isCorrect":0},{"text":"Outer membrane","isCorrect":1}],"text":"Hydrophobic permeability barrier"},
             {"answers":[{"text":"Outer membrane","isCorrect":0},{"text":"Teichoic acid","isCorrect":0},{"text":"Periplasmic space","isCorrect":1},{"text":"Cell wall","isCorrect":0}],"text":"Contains thin peptidoglycan layer"},
-            {"answers":[{"text":"Lipopolysaccharide","isCorrect":1},{"text":"Endospores","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":0}],"text":"Antigenic (O antigen), toxic (lipid A)"},
-            {"answers":[{"text":"Biofilm","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Lipopolysaccharide","isCorrect":0},{"text":"Endospores","isCorrect":1}],"text":"Survival in harsh environment"},
-            {"answers":[{"text":"Endospores","isCorrect":0},{"text":"Flagella\/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Lipopolysaccharide","isCorrect":0}],"text":"Protection from phagocytosis, attachment"}
+            {"answers":[{"text":"Lipopolysaccharide","isCorrect":1},{"text":"Endospores","isCorrect":0},{"text":"Flagella/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":0}],"text":"Antigenic (O antigen), toxic (lipid A)"},
+            {"answers":[{"text":"Biofilm","isCorrect":0},{"text":"Flagella/axial filaments","isCorrect":0},{"text":"Lipopolysaccharide","isCorrect":0},{"text":"Endospores","isCorrect":1}],"text":"Survival in harsh environment"},
+            {"answers":[{"text":"Endospores","isCorrect":0},{"text":"Flagella/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Lipopolysaccharide","isCorrect":0}],"text":"Protection from phagocytosis, attachment"}
         ]}
     ]},
 
@@ -276,7 +276,7 @@
             {"answers":[{"text":"HACEK group","isCorrect":1},{"text":"Viridans Streptococci","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0}],"text":"Normal oropharyngeal flora"}
         ]},
 
-        {"title":"Most common type","questions":[
+        {"title":"Type","questions":[
             {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"HACEK group","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1}],"text":"Most common cause of acute IE: native valve (abnormal or normal), prosthetic valve (early) IV drug user (tricuspid valve)"},
             {"answers":[{"text":"HACEK group","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"Prosthetic valve"},
             {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Most common cause of subacute IE (abnormal or damaged valves)"},
@@ -302,6 +302,72 @@
             {"answers":[{"text":"Staphylococcus aureus","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":1},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Culture: α-hemolytic, optochin resistant,  bile resistant"},
             {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1}],"text":"Culture: no hemolysis; MSA colorless colonies"},
             {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0}],"text":"Culture: mannitol-salt agar: yellow colonies, β-hemolysis"}
+        ]}
+    ]},
+
+    {"title":"Bacterial Respiratory Infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Diphtheria","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":1},{"text":"Strep throat","isCorrect":0}],"text":"Moraxella catarrhalis"},
+            {"answers":[{"text":"Diphtheria","isCorrect":0},{"text":"Strep throat","isCorrect":1},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":0}],"text":"Streptococcus pyogenes"},
+            {"answers":[{"text":"Otitis and sinusitis","isCorrect":0},{"text":"Diphtheria","isCorrect":1},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Strep throat","isCorrect":0}],"text":"Corynebacterium diphtheriae"},
+            {"answers":[{"text":"Diphtheria","isCorrect":0},{"text":"Strep throat","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":1}],"text":"Haemophilus influenzae"},
+            {"answers":[{"text":"Epiglottitis, pneumonia","isCorrect":1},{"text":"Pertussis (Whooping cough)","isCorrect":0},{"text":"Sinusitis, Otitis","isCorrect":0},{"text":"Tuberculosis","isCorrect":0}],"text":"Haemophilus influenzae"},
+            {"answers":[{"text":"Tuberculosis","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":1},{"text":"Sinusitis, Otitis","isCorrect":0}],"text":"Bordetella pertussis"},
+            {"answers":[{"text":"Sinusitis, Otitis","isCorrect":0},{"text":"Tuberculosis","isCorrect":1},{"text":"Pertussis (Whooping cough)","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0}],"text":"Mycobacterium tuberculosis"},
+            {"answers":[{"text":"Pertussis (Whooping cough)","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Sinusitis, Otitis","isCorrect":1},{"text":"Tuberculosis","isCorrect":0}],"text":"Streptococcus pneumoniae"},
+            {"answers":[{"text":"Psittacosis","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Pneumonia","isCorrect":1},{"text":"Q fever","isCorrect":0}],"text":"Klebsiella pneumoniae"},
+            {"answers":[{"text":"Psittacosis","isCorrect":0},{"text":"Pneumonia","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":1},{"text":"Q fever","isCorrect":0}],"text":"Mycoplasma pneumoniae"},
+            {"answers":[{"text":"Psittacosis","isCorrect":1},{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Pneumonia","isCorrect":0},{"text":"Q fever","isCorrect":0}],"text":"Chlamydophila psittaci"},
+            {"answers":[{"text":"Pneumonia","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Q fever","isCorrect":1},{"text":"Atypical Pneumonia","isCorrect":0}],"text":"Coxiella burnetii"},
+            {"answers":[{"text":"Pulmonary Anthrax","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":1},{"text":"Pontiac fever","isCorrect":0},{"text":"Lung infections","isCorrect":0}],"text":"Legionella pneumophila"},
+            {"answers":[{"text":"Legionnaire’s disease ","isCorrect":0},{"text":"Pulmonary Anthrax","isCorrect":0},{"text":"Pontiac fever","isCorrect":0},{"text":"Lung infections","isCorrect":1}],"text":"Pseudomonas aeruginosa"},
+            {"answers":[{"text":"Lung infections","isCorrect":0},{"text":"Pontiac fever","isCorrect":0},{"text":"Pulmonary Anthrax","isCorrect":1},{"text":"Legionnaire’s disease ","isCorrect":0}],"text":"Bacillus anthracis"}
+        ]},
+
+        {"title":"Physical properties","questions":[
+            {"answers":[{"text":"Pulmonary Anthrax","isCorrect":1},{"text":"Legionnaire’s disease ","isCorrect":0},{"text":"Pontiac fever","isCorrect":0},{"text":"Lung infections","isCorrect":0}],"text":"GPR single, paired or long serpentine chains (“box car chains”); spore-forming; Polypeptide Capsule"},
+            {"answers":[{"text":"Pontiac fever","isCorrect":1},{"text":"Pulmonary Anthrax","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":1},{"text":"Lung infections","isCorrect":0}],"text":"Water organisms, GNR; Facultative intracellular pathogen"},
+            {"answers":[{"text":"Pulmonary Anthrax","isCorrect":0},{"text":"Pontiac fever","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":0},{"text":"Lung infections","isCorrect":1}],"text":"Opportunist pathogen; non-lactose-fermenting GNR"},
+            {"answers":[{"text":"Q fever","isCorrect":1},{"text":"Pneumonia","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0}],"text":"Obligate intracellular GNR, poorly staining"},
+            {"answers":[{"text":"Pneumonia","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":1},{"text":"Psittacosis","isCorrect":1},{"text":"Q fever","isCorrect":0}],"text":"Small obligate intracellular pathogen; 2 stages : elementary body (EB) & reticulate body (RB); no peptidoglycan layer in cell wall;energy parasites"},
+            {"answers":[{"text":"Q fever","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Pneumonia","isCorrect":1},{"text":"Atypical Pneumonia","isCorrect":0}],"text":"Enterobacteriaceae family, GNR, polysaccharide capsule "},
+            {"answers":[{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Tuberculosis","isCorrect":0},{"text":"Sinusitis, Otitis","isCorrect":1},{"text":"Pertussis (Whooping cough)","isCorrect":0}],"text":"Lancet-shaped, GP diplococcus,catalase (-), α-hemolytic , Bile soluble, Optochin (P disc)-sensitive"},
+            {"answers":[{"text":"Sinusitis, Otitis","isCorrect":0},{"text":"Tuberculosis","isCorrect":1},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":0}],"text":"Acid-fast rods; slow growth; facultative intracellular, obligate aerobe"},
+            {"answers":[{"text":"Pertussis (Whooping cough)","isCorrect":1},{"text":"Tuberculosis","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Sinusitis, Otitis","isCorrect":0}],"text":"GN coccobacilli, fastidious"},
+            {"answers":[{"text":"Epiglottitis, pneumonia","isCorrect":1},{"text":"Pertussis (Whooping cough)","isCorrect":0},{"text":"Tuberculosis","isCorrect":0},{"text":"Sinusitis, Otitis","isCorrect":0}],"text":"GN coccobacilli; require X (hemin) & V (NAD) factors"},
+            {"answers":[{"text":"Diphtheria","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":1},{"text":"Strep throat","isCorrect":0},{"text":"Tuberculosis","isCorrect":0}],"text":"GN diplococci"},
+            {"answers":[{"text":"Diphtheria","isCorrect":0},{"text":"Strep throat","isCorrect":1},{"text":"Tuberculosis","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":0}],"text":"GPC in chains or pairs, catalase (-),β-hemolytic, group A antigen,Bacitracin sensitive, PYR (+)"},
+            {"answers":[{"text":"Diphtheria","isCorrect":1},{"text":"Tuberculosis","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":0},{"text":"Strep throat","isCorrect":0}],"text":"GP club-shaped rods; non spore-forming"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Diphtheria","isCorrect":0},{"text":"Strep throat","isCorrect":0},{"text":"Otitis and sinusitis","isCorrect":1},{"text":"Tuberculosis","isCorrect":0}],"text":"Normal flora upper respiratory tract"},
+            {"answers":[{"text":"Tuberculosis","isCorrect":0},{"text":"Strep throat","isCorrect":1},{"text":"Otitis and sinusitis","isCorrect":0},{"text":"Diphtheria","isCorrect":0}],"text":"Nasopharynx & skin "},
+            {"answers":[{"text":"Otitis and sinusitis","isCorrect":0},{"text":"Strep throat","isCorrect":0},{"text":"Diphtheria","isCorrect":1},{"text":"Tuberculosis","isCorrect":0}],"text":"Carriers"},
+            {"answers":[{"text":"Tuberculosis","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":1},{"text":"Pertussis (Whooping cough)","isCorrect":0},{"text":"Pneumonia","isCorrect":0}],"text":"Infected persons or asymptomatic carriers "},
+            {"answers":[{"text":"Pneumonia","isCorrect":0},{"text":"Tuberculosis","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":1}],"text":"Infected persons, asymptomatic carriers "},
+            {"answers":[{"text":"Tuberculosis","isCorrect":1},{"text":"Pneumonia","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":0}],"text":"Infected persons"},
+            {"answers":[{"text":"Tuberculosis","isCorrect":0},{"text":"Pneumonia","isCorrect":1},{"text":"Pertussis (Whooping cough)","isCorrect":0},{"text":"Epiglottitis, pneumonia","isCorrect":0}],"text":"Human colon and upper respiratory tract"},
+            {"answers":[{"text":"Atypical Pneumonia","isCorrect":1},{"text":"Q fever","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":0}],"text":"Infected persons or asymptomatic carriers "},
+            {"answers":[{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Q fever","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":0},{"text":"Psittacosis","isCorrect":1}],"text":"Birds"},
+            {"answers":[{"text":"Q fever","isCorrect":1},{"text":"Legionnaire’s disease ","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0}],"text":"Farm mammals, high concentration in placenta"},
+            {"answers":[{"text":"Psittacosis","isCorrect":0},{"text":"Q fever","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":1},{"text":"Atypical Pneumonia","isCorrect":0}],"text":"Ubiquitous in fresh water: free living or parasites of protozoa; Biofilms in water sources"},
+            {"answers":[{"text":"Lung infections in Cystic fibrosis patients","isCorrect":1},{"text":"Pulmonary Anthrax","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Psittacosis","isCorrect":0}],"text":"Ubiquitous in the environment; transient colonization of the human body "},
+            {"answers":[{"text":"Pulmonary Anthrax","isCorrect":1},{"text":"Psittacosis","isCorrect":0},{"text":"Lung infections in Cystic fibrosis patients","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0}],"text":"Ubiquitous zoonotic"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Psittacosis","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Lung infections in Cystic fibrosis patients","isCorrect":1},{"text":"Pulmonary Anthrax","isCorrect":0}],"text":"Pili (adhesion to epithelial cells); Capsule/slime layer (anti-phagocytosis); biofilm; Endotoxin & inflammation; Tissue Damage: Extracellular enzymes and toxins (Exotoxin A: AB exotoxin, ADP-ribosylation of EF-2 -> shutdown of    protein synthesis-> cell death)"},
+            {"answers":[{"text":"Lung infections in Cystic fibrosis patients","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Pulmonary Anthrax","isCorrect":1}],"text":"Spore (w/ calcium dipicolinate), capsule, PA + EF = edema toxin; PA + LF = lethal toxin; Inhalation of anthrax spores  germinate and replicate in alveolar macrophages Transport through pulmonary lymphatics to mediastinal lymph nodes"},
+            {"answers":[{"text":"Q fever","isCorrect":0},{"text":"Psittacosis","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":1}],"text":"Biofilms; coiling phagocytosis; Replication inside the phagosome; Lysis of phagocytesLung damage & Inflammatory response"},
+            {"answers":[{"text":"Q fever","isCorrect":1},{"text":"Psittacosis","isCorrect":0},{"text":"Atypical Pneumonia","isCorrect":0},{"text":"Legionnaire’s disease ","isCorrect":0}],"text":"Spore-like stage for environmental survival; intracellular survival"},
+            {"answers":[{"text":"Legionnaire’s disease ","isCorrect":0},{"text":"Psittacosis","isCorrect":1},{"text":"Atypical Pneumonia","isCorrect":1},{"text":"Q fever","isCorrect":0}],"text":"Developmental cycle: EB (infectious, survives outside the host, non reproductive particles), RB (noninfectious, intracytoplasmic, reproductive form) "},
+            {"answers":[{"text":"Tuberculosis","isCorrect":0},{"text":"Pneumonia","isCorrect":1},{"text":"Sinusitis, Otitis","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":0}],"text":"Capsule: no phagocytosis; Endotoxin: fever, inflammation and shock (septicemia)  necrotic destruction of alveolar spaces; abscesses"},
+            {"answers":[{"text":"Pneumonia","isCorrect":0},{"text":"Sinusitis, Otitis","isCorrect":1},{"text":"Tuberculosis","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":0}],"text":"Polysaccharide capsule (major, antiphagocytic); IgA protease (colonization);Pneumolysin (transmembrane pore-forming toxin), autolysin (release of intracellular factors & cell wall)"},
+            {"answers":[{"text":"Sinusitis, Otitis","isCorrect":0},{"text":"Tuberculosis","isCorrect":1},{"text":"Pneumonia","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":0}],"text":"Survival & growth in alveolar macrophages (sulfolipids, cord factor/ trehalose dimycolate): cell wall components (Mycolic acid, lipids & LAM); Development of reactive inflammatory focus Caseous tissue necrosis - damage due to host response Granuloma formation (Ghon complex, CMI, tuberculin)"},
+            {"answers":[{"text":"Sinusitis, Otitis","isCorrect":0},{"text":"Pneumonia","isCorrect":0},{"text":"Pertussis (Whooping cough)","isCorrect":1},{"text":"Tuberculosis","isCorrect":0}],"text":"Infects tracheobronchial epithelium; Immobilization of cilia: Fha (filamentous hemagglutinin) + Ptx (Pertussis toxin); Killing of ciliated cells: Tracheal cytotoxin; Increase in mucus secretion & edema: Ptx (A-B toxin, ADP-ribosylation of G-protein  adenylate cyclase activity cAMP; "},
+            {"answers":[{"text":"Tuberculosis","isCorrect":0},{"text":"Diphtheria","isCorrect":1},{"text":"Strep throat","isCorrect":0},{"text":"Pneumonia","isCorrect":0}],"text":"Diphtheria toxin (A-B exotoxin encoded on lysogenic phage): ADP ribosylation of EF-2  blocks protein synthesis cell death necrosis ; diffusion of toxin via blood  damages heart and peripheral nervous system "},
+            {"answers":[{"text":"Pneumonia","isCorrect":0},{"text":"Tuberculosis","isCorrect":0},{"text":"Diphtheria","isCorrect":0},{"text":"Strep throat","isCorrect":1}],"text":"M-protein (adhesion & antiphagocytic), hyaluronic acid capsule (non-immunogenic);Streptolysins (pore forming), Exoenzymes"}
         ]}
     ]}
 ]
