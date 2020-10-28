@@ -133,4 +133,118 @@
             {"answers":[{"text":"Systemic","isCorrect":0},{"text":"Sabouraud agar","isCorrect":1},{"text":"PCR","isCorrect":1},{"text":"Mold","isCorrect":0}],"text":"Culture"}
         ]}
     ]},
+
+    {"title":"Systemic Infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Scrub typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":1},{"text":"Epidemic typhus","isCorrect":0}],"text":"Rickettsia rickettsii (Spotted fever group)"},
+            {"answers":[{"text":"Rocky mountain spotted fever","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":1},{"text":"Scrub typhus","isCorrect":0}],"text":"Rickettsia akari (Spotted fever group)"},
+            {"answers":[{"text":"Scrub typhus","isCorrect":0},{"text":"Epidemic typhus","isCorrect":1},{"text":"Rickettsialpox","isCorrect":0},{"text":"Endemic typhus","isCorrect":0}],"text":"Rickettsia prowazekii (Typhus group)"},
+            {"answers":[{"text":"Scrub typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Endemic typhus","isCorrect":1}],"text":"Rickettsia typhi (Typhus group)"},
+            {"answers":[{"text":"Endemic typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Scrub typhus","isCorrect":1}],"text":"Orientia tsutsugamushi (Scrub typhus group)"},
+            {"answers":[{"text":"Human Monocytic Ehrlichiosis","isCorrect":1},{"text":"Tularemia","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0}],"text":"Ehrlichia chaffeensis"},
+            {"answers":[{"text":"Granulocytic Anaplasmosis","isCorrect":1},{"text":"Tularemia","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0}],"text":"Anaplasma phagocytophila"},
+            {"answers":[{"text":"Plague","isCorrect":1},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0},{"text":"Tularemia","isCorrect":0}],"text":"Yersinia pestis"},
+            {"answers":[{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":1}],"text":"Francisella tularensis"},
+            {"answers":[{"text":"Brucellosis","isCorrect":1},{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Trench fever","isCorrect":0}],"text":"Brucella spp. (abortus, melitensis, suis)"},
+            {"answers":[{"text":"Trench fever","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Brucellosis","isCorrect":0}],"text":"Bartonella quintana"},
+            {"answers":[{"text":"Brucellosis","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":1},{"text":"Trench fever","isCorrect":0}],"text":"Borrelia burgdorferi"},
+            {"answers":[{"text":"Epidemic Relapsing Fever","isCorrect":1},{"text":"Leptospirosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Endemic Relapsing Fever","isCorrect":0}],"text":"Borrelia recurrentis"},
+            {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":1},{"text":"Leptospirosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0}],"text":"Borrelia hermsii"},
+            {"answers":[{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Leptospirosis","isCorrect":1},{"text":"Endemic Relapsing Fever","isCorrect":0}],"text":"Leptospira interrogans"}
+        ]},
+
+        {"title":"Characteristics","questions":[
+            {"answers":[{"text":"Endemic typhus","isCorrect":1},{"text":"Plague","isCorrect":0},{"text":"Rickettsialpox","isCorrect":1},{"text":"Tularemia","isCorrect":0}],"text":"GN coccobacilli; gram staining weakly; obligate intracellular pathogens; zoonotic pathogens"},
+            {"answers":[{"text":"Plague","isCorrect":1},{"text":"Tularemia","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Endemic typhus","isCorrect":0}],"text":"GNR, lactose (-), oxidase (-), nonmotile, bipolar staining; zoonotic pathogen"},
+            {"answers":[{"text":"Rickettsialpox","isCorrect":0},{"text":"Endemic typhus","isCorrect":0},{"text":"Tularemia","isCorrect":1},{"text":"Plague","isCorrect":0}],"text":"GN coccobacilli, requires cysteine, facultative intracellular pathogen; zoonotic pathogen"},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Trench fever","isCorrect":0},{"text":"Brucellosis","isCorrect":1}],"text":"GN coccobacilli facultative intracellular pathogens, zoonotic pathogens"},
+            {"answers":[{"text":"Brucellosis","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Trench fever","isCorrect":1}],"text":"GNR, zoonotic pathogen"},
+            {"answers":[{"text":"Brucellosis","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":1},{"text":"Leptospirosis","isCorrect":0},{"text":"Lyme disease","isCorrect":1}],"text":"Spirochete; large, GN; motile (endoflagella); zoonotic pathogens, difficult to isolate in culture"},
+            {"answers":[{"text":"Brucellosis","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":1},{"text":"Lyme disease","isCorrect":0}],"text":"Spirochete; motile; slow growth; GN but not seen on gram stain; zoonotic pathogen, tight terminal hooks"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Brucellosis","isCorrect":0}],"text":"Dogs, livestock, rats, wild animals (colonize renal tubules)"},
+            {"answers":[{"text":"Lyme disease","isCorrect":0},{"text":"Endemic Relapsing Fever","isCorrect":1},{"text":"Brucellosis","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0}],"text":"Rodents + other small animals"},
+            {"answers":[{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Endemic Relapsing Fever","isCorrect":1},{"text":"Trench fever","isCorrect":1},{"text":"Brucellosis","isCorrect":0}],"text":"Humans"},
+            {"answers":[{"text":"Lyme disease","isCorrect":1},{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0}],"text":"Wild rodents,white tailed deer"},
+            {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Brucellosis","isCorrect":1}],"text":"Domestic livestock (cattle, goats, sheep, pigs)"},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Tularemia","isCorrect":1}],"text":"Wild animals (rabbits, squirrels, deer…)"},
+            {"answers":[{"text":"Brucellosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Plague","isCorrect":1},{"text":"Tularemia","isCorrect":0}],"text":"Wild rodents (Sylvanic cycle)"},
+            {"answers":[{"text":"Scrub typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Endemic typhus","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":1}],"text":"Sheep, cattle, rodents, deer, rodents"},
+            {"answers":[{"text":"Endemic typhus","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0}],"text":"Rats"},
+            {"answers":[{"text":"Rickettsialpox","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Endemic typhus","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0}],"text":"Wild rodents"},
+            {"answers":[{"text":"Epidemic typhus","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Endemic typhus","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0}],"text":"Humans; squirrels"}
+        ]},
+
+        {"title":"Vector","questions":[
+            {"answers":[{"text":"Endemic typhus","isCorrect":0},{"text":"Scrub typhus","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":1}],"text":"Dermacentor spp. (dog tick)"},
+            {"answers":[{"text":"Scrub typhus","isCorrect":0},{"text":"Endemic typhus","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":1}],"text":"Mouse mite"},
+            {"answers":[{"text":"Epidemic typhus","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Endemic typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0}],"text":"Human body louse "},
+            {"answers":[{"text":"Endemic typhus","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0}],"text":"Flea "},
+            {"answers":[{"text":"Epidemic typhus","isCorrect":0},{"text":"Scrub typhus","isCorrect":1},{"text":"Rickettsialpox","isCorrect":0},{"text":"Endemic typhus","isCorrect":0}],"text":"Mite larva (chigger)"},
+            {"answers":[{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Human Monocytic Ehrlichiosis","isCorrect":1},{"text":"Plague","isCorrect":0}],"text":"Amblyomma (Lone star tick)"},
+            {"answers":[{"text":"Granulocytic Anaplasmosis","isCorrect":1},{"text":"Tularemia","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0}],"text":"Ixodes (Black legged tick)"},
+            {"answers":[{"text":"Tularemia","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Plague","isCorrect":1},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0}],"text":"Flea"},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Tularemia","isCorrect":1},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0}],"text":"Tick (Dermacentor), deer fly"},
+            {"answers":[{"text":"Tularemia","isCorrect":0},{"text":"Lyme disease","isCorrect":1},{"text":"Leptospirosis","isCorrect":0},{"text":"Plague","isCorrect":0}],"text":"Ixodes (Black legged tick) "},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Leptospirosis","isCorrect":1}],"text":"Shed in urine of infected animals"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Leptospirosis","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":0}],"text":"Contact with contaminated water; Direct contact with urine, blood or tissues of infected animals"},
+            {"answers":[{"text":"Lyme disease","isCorrect":1},{"text":"Tularemia","isCorrect":1},{"text":"Plague","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":1}],"text":"Tick bite"},
+            {"answers":[{"text":"Lyme disease","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Trench fever","isCorrect":1},{"text":"Rocky mountain spotted fever","isCorrect":0}],"text":"Louse bite"},
+            {"answers":[{"text":"Trench fever","isCorrect":0},{"text":"Brucellosis","isCorrect":1},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Plague","isCorrect":0}],"text":"Direct contact, inhalation/aerosol, ingestion of unpasteurized dairy products"},
+            {"answers":[{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Scrub typhus","isCorrect":1},{"text":"Plague","isCorrect":0},{"text":"Brucellosis","isCorrect":0}],"text":"Chigger bite"},
+            {"answers":[{"text":"Plague","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0}],"text":"Flea bite, direct contact, respiratory droplets/aerosol (pneumonic plague only)"},
+            {"answers":[{"text":"Scrub typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":1},{"text":"Plague","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0}],"text":"Mite bite"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Rocky mountain spotted fever","isCorrect":1},{"text":"Rickettsialpox","isCorrect":1},{"text":"Scrub typhus","isCorrect":1},{"text":"Plague","isCorrect":0}],"text":"Infect vascular endothelial cells → (1) induced endocytosis (2) lysis of phagosome membrane (3) replication in host cell cytoplasm (4) lysis of host cell → vascular damage (hemorrhage, edema, rash); LPS - weak endotoxin activity, vasculitis and thrombosis"},
+            {"answers":[{"text":"Rickettsialpox","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Plague","isCorrect":0}],"text":"Primarily infects granulocytes (neutrophils)"},
+            {"answers":[{"text":"Rickettsialpox","isCorrect":0},{"text":"Plague","isCorrect":1},{"text":"Scrub typhus","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0}],"text":"Virulence plasmids: Capsule (F1 protein), plasminogen activator (prevents opsonization and platelets aggregation); Type III secretion system: Yop proteins inhibit cytokines + prevent phagocytosis; Endotoxin (septic shock)"},
+            {"answers":[{"text":"Tularemia","isCorrect":1},{"text":"Brucellosis","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Lyme disease","isCorrect":0}],"text":"Infects reticuloendothelial organs: multiplication in macrophages, hepatocytes and endothelial cells => necrosis and granuloma production in areas of multiplication; Survival: inhibition of phagosome-lysosome fusion; capsule "},
+            {"answers":[{"text":"Brucellosis","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":0}],"text":"Multiply in macrophages in reticuloendothelial system => granulomas => septicemia"},
+            {"answers":[{"text":"Lyme disease","isCorrect":1},{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Brucellosis","isCorrect":0}],"text":"Antigenic variation - escape immune clearance; autoimmune activities of anti-Osp, LPS"},
+            {"answers":[{"text":"Tularemia","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Leptospirosis","isCorrect":1}],"text":"Multiply in blood and tissues; inflammation/immune complexes → renal damage"}
+        ]},
+
+        {"title":"Clinical features","questions":[
+            {"answers":[{"text":"Brucellosis","isCorrect":0},{"text":"Leptospirosis","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Lyme disease","isCorrect":1}],"text":"Stage1 (localized infect.): erythema migrans (bull's eye appearance) + flu-like symptoms; Stage2 (disseminated infect.): cardiac and neurologic (nerve palsies) abnormalities; Stage3 (persistent infection): fluctuating arthritis."},
+            {"answers":[{"text":"Lyme disease","isCorrect":1},{"text":"Brucellosis","isCorrect":0},{"text":"Leptospirosis","isCorrect":0},{"text":"Tularemia","isCorrect":0}],"text":"Acute septicemic phase: flu-like symptoms; Immune phase: anicteric form (possible meningitis), icteric form or Weil's disease (jaundice, renal failure, subconjunctival hemorrhage)"},
+            {"answers":[{"text":"Tularemia","isCorrect":0},{"text":"Leptospirosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Brucellosis","isCorrect":1}],"text":"Flu-like symptoms; night sweats; Possible enlargement of reticuloendothelial organs."},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Trench fever","isCorrect":1}],"text":"Multiple recurrent febrile episodes 5-day fever with pain in long bones and sweating; Skin lesions in bacillary angiomatosis cases"},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Trench fever","isCorrect":0},{"text":"Brucellosis","isCorrect":1}],"text":"Flu-like symptoms; night sweats; Possible enlargement of reticuloendothelial organs."},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Trench fever","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Tularemia","isCorrect":1}],"text":"Ulceroglandular form (most common): painful ulcerating lesion at site of infection; Pneumonic, Gastrointestinal & Septicemic forms (more severe); Oculoglandular form: purulent conjunctivitis + lymphadenopathy"},
+            {"answers":[{"text":"Trench fever","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Plague","isCorrect":1}],"text":"Flu-like symptoms; Multiplication in regional lymph node => suppurative lymphadenitis"},
+            {"answers":[{"text":"Rocky mountain spotted fever","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Human Monocytic Ehrlichiosis","isCorrect":1},{"text":"Rickettsialpox","isCorrect":0}],"text":"Fever, headache, malaise, myalgia. Leukopenia, thrombocytopenia, increased liver enzymes"},
+            {"answers":[{"text":"Epidemic typhus","isCorrect":1},{"text":"Rickettsialpox","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":0},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0}],"text":"Flu-like symptoms, gradual onset, rash on trunk"},
+            {"answers":[{"text":"Human Monocytic Ehrlichiosis","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":0},{"text":"Rickettsialpox","isCorrect":1}],"text":"Eschar at bite site; Dissemination → flu-like symptoms + fever + generalized rash (randomly distributed)"},
+            {"answers":[{"text":"Human Monocytic Ehrlichiosis","isCorrect":0},{"text":"Epidemic typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":1}],"text":"Flu-like symptoms, petechial-hemorrhagic rash (first on extremities → spread to body, on palms/soles); various organ failures. Fever + Rash + Headache + Previous tick bite"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Epidemic typhus","isCorrect":1},{"text":"Human Monocytic Ehrlichiosis","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":1},{"text":"Rickettsialpox","isCorrect":1}],"text":"Clinical presentation + Serologic tests (indirect immuno-fluorescence assay, immuno-staining, Weil-Felix for RMSF)"},
+            {"answers":[{"text":"Human Monocytic Ehrlichiosis","isCorrect":1},{"text":"Epidemic typhus","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Rocky mountain spotted fever","isCorrect":0}],"text":"Clinical presentation + Microscopy: Giemsa (Morulae) + Serologic tests: IFA, PCR"},
+            {"answers":[{"text":"Human Monocytic Ehrlichiosis","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0},{"text":"Plague","isCorrect":1},{"text":"Rocky mountain spotted fever","isCorrect":0}],"text":"Serologic tests: direct immunofluorescence test (detects capsular F1); microscopy: gram stain or Giemsa - bipolar staining, culture: highly infectious"},
+            {"answers":[{"text":"Leptospirosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Tularemia","isCorrect":1},{"text":"Brucellosis","isCorrect":0}],"text":"Serologic tests; PCR, microscopy; culture requires cysteine-glucose blood agar"},
+            {"answers":[{"text":"Lyme disease","isCorrect":0},{"text":"Leptospirosis","isCorrect":0},{"text":"Tularemia","isCorrect":0},{"text":"Brucellosis","isCorrect":1}],"text":"Serologic tests, culture"},
+            {"answers":[{"text":"Lyme disease","isCorrect":1},{"text":"Tularemia","isCorrect":0},{"text":"Brucellosis","isCorrect":0},{"text":"Leptospirosis","isCorrect":0}],"text":"Clinical + CDC protocol: EIA or IFA, if positive then Western blot to confirm"},
+            {"answers":[{"text":"Brucellosis","isCorrect":0},{"text":"Leptospirosis","isCorrect":1},{"text":"Tularemia","isCorrect":0},{"text":"Lyme disease","isCorrect":0}],"text":"Serologic tests: microscopic agglutination test"},
+            {"answers":[{"text":"Leptospirosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Endemic Relapsing Fever","isCorrect":1},{"text":"Tularemia","isCorrect":0}],"text":"Microscopy (during febrile period) Giemsa or Wright staining; Serologic tests unhelpful (because of antigenic variation)"},
+            {"answers":[{"text":"Lyme disease","isCorrect":0},{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Trench fever","isCorrect":1},{"text":"Leptospirosis","isCorrect":0}],"text":"Serologic tests; PCR, fastidious growth requirements"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Trench fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":1}],"text":"Doxycycline or Penicillin "},
+            {"answers":[{"text":"Trench fever","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":0}],"text":"Doxycycline + gentamicin"},
+            {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":1},{"text":"Trench fever","isCorrect":0},{"text":"Leptospirosis","isCorrect":0}],"text":"Doxycycline or amoxicillin"},
+            {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":1},{"text":"Lyme disease","isCorrect":0},{"text":"Leptospirosis","isCorrect":0},{"text":"Trench fever","isCorrect":0}],"text":"Doxycycline or tetracycline"},
+            {"answers":[{"text":"Tularemia","isCorrect":1},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Plague","isCorrect":0},{"text":"Rickettsialpox","isCorrect":0}],"text":"Streptomycin or gentamicin"},
+            {"answers":[{"text":"Plague","isCorrect":1},{"text":"Rickettsialpox","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":0},{"text":"Tularemia","isCorrect":0}],"text":"Streptomycin or gentamicin, quarantine"},
+            {"answers":[{"text":"Plague","isCorrect":0},{"text":"Granulocytic Anaplasmosis","isCorrect":1},{"text":"Rickettsialpox","isCorrect":1},{"text":"Tularemia","isCorrect":0}],"text":"Doxycycline"}
+        ]}
+    ]}
 ]
