@@ -909,7 +909,312 @@
             {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Typhoid fever","isCorrect":1}],"text":"Fluoroquinolones (ciprofloxacin)"},
             {"answers":[{"text":"Botulism","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":1},{"text":"Antibiotic-associated diarrhea","isCorrect":0}],"text":"Proton pump inhibitor + clarithromycin + amoxicillin"}
         ]}
+    ]},
+
+    {"title":"Skin Infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Tuberculoid leprosy","isCorrect":0},{"text":"Folliculitis","isCorrect":1},{"text":"Impetigo","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0}],"text":"Staphylococcus aureus"},
+            {"answers":[{"text":"Tuberculoid leprosy","isCorrect":0},{"text":"Impetigo","isCorrect":1},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Folliculitis","isCorrect":0}],"text":"Streptococcus pyogenes (GAS)"},
+            {"answers":[{"text":"Tuberculoid leprosy","isCorrect":1},{"text":"Folliculitis","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Impetigo","isCorrect":0}],"text":"Mycobacterium leprae"},
+            {"answers":[{"text":"Fish tank granuloma","isCorrect":1},{"text":"Impetigo","isCorrect":0},{"text":"Tuberculoid leprosy","isCorrect":0},{"text":"Folliculitis","isCorrect":0}],"text":"Mycobacterium marinum"},
+            {"answers":[{"text":"Pityriasis versicolor","isCorrect":1},{"text":"Mycetoma","isCorrect":0},{"text":"Hot tub folliculitis","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0}],"text":"Malassezia furfur "},
+            {"answers":[{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Hot tub folliculitis","isCorrect":1},{"text":"Dermal anthrax","isCorrect":0},{"text":"Mycetoma","isCorrect":0}],"text":"Pseudomonas aeruginosa"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Dermal anthrax","isCorrect":1},{"text":"Hot tub folliculitis","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Bacillus anthracis"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Hot tub folliculitis","isCorrect":0},{"text":"Mycetoma","isCorrect":1}],"text":"Nocardia brasiliensis"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1},{"text":"Sporotrichosis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0}],"text":"Malassezia furfur "},
+            {"answers":[{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Dermatophytoses","isCorrect":1}],"text":"Trichophyton, Microsporum,& Epidermophyton spp."},
+            {"answers":[{"text":"Sporotrichosis","isCorrect":0},{"text":"Cutaneous","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0}],"text":"Candida albicans"},
+            {"answers":[{"text":"Eumycetoma","isCorrect":0},{"text":"Sporotrichosis","isCorrect":1},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Cutaneous","isCorrect":0}],"text":"Sporothrix schenckii"},
+            {"answers":[{"text":"Sporotrichosis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Eumycetoma","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":1}],"text":"Soil fungi (Clasdosporium, Phialophora)"},
+            {"answers":[{"text":"Eumycetoma","isCorrect":1},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Cutaneous","isCorrect":0}],"text":"Soil fungi (Madurella, Petriellidium)"}
+        ]},
+
+        {"title":"Physical properties","questions":[
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Eumycetoma","isCorrect":1},{"text":"Chromoblastomycosis","isCorrect":0}],"text":"Molds"},
+            {"answers":[{"text":"Cutaneous","isCorrect":1},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Eumycetoma","isCorrect":0}],"text":"Yeast, pseudohyphae, hyphae"},
+            {"answers":[{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Sporotrichosis","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Eumycetoma","isCorrect":0}],"text":"Dimorphic fungus: ovoid yeast or mold (conidiophore clusters)"},
+            {"answers":[{"text":"Eumycetoma","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0}],"text":"Dematiaceous molds"},
+            {"answers":[{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Hot tub folliculitis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":1},{"text":"Dermal anthrax","isCorrect":0}],"text":"Molds, filamentous fungi"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Hot tub folliculitis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1}],"text":"Lipophilic yeast"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Hot tub folliculitis","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"GNR, oxidase (+), pigmented colonies, grape-like odor"},
+            {"answers":[{"text":"Dermatophytoses","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":1},{"text":"Hot tub folliculitis","isCorrect":0}],"text":"GPR, spore forming, strict aerobe"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Impetigo","isCorrect":1}],"text":"GPC in chains; catalase(-)"},
+            {"answers":[{"text":"Impetigo","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":1},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Mycetoma","isCorrect":0}],"text":"Acid fast rods; no growth on artificial media"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Impetigo","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":1},{"text":"Lepromatous leprosy","isCorrect":0}],"text":"Acid fast rods; photochromogen"},
+            {"answers":[{"text":"Fish tank granuloma","isCorrect":0},{"text":"Impetigo","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Mycetoma","isCorrect":1}],"text":"Partially acid fast, branching, GPR"},
+            {"answers":[{"text":"Fish tank granuloma","isCorrect":0},{"text":"Folliculitis","isCorrect":1},{"text":"Mycetoma","isCorrect":0},{"text":"Impetigo","isCorrect":0}],"text":"GPC grape-like clusters; catalase (+), coagulase (+), faculative anaerobe"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Impetigo","isCorrect":0},{"text":"Folliculitis","isCorrect":0},{"text":"Mycetoma","isCorrect":1},{"text":"Fish tank granuloma","isCorrect":0}],"text":"Soil"},
+            {"answers":[{"text":"Fish tank granuloma","isCorrect":0},{"text":"Mycetoma","isCorrect":0},{"text":"Folliculitis","isCorrect":0},{"text":"Impetigo","isCorrect":1}],"text":"Contaminated persons"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Impetigo","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Folliculitis","isCorrect":1}],"text":"Human skin and nasal mucosa"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Cutaneous","isCorrect":0}],"text":"Ubiquitous/ zoonotic; soil"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1}],"text":"Infected persons"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Dermatophytoses","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Infected persons, animals, soil"},
+            {"answers":[{"text":"Dermatophytoses","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0},{"text":"Cutaneous","isCorrect":1}],"text":"Normal flora (oropharynx, GI tract, skin...)"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Sporotrichosis","isCorrect":1},{"text":"Eumycetoma","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0}],"text":"Ubiquitous: soil, plants"},
+            {"answers":[{"text":"Sporotrichosis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Eumycetoma","isCorrect":1},{"text":"Cutaneous","isCorrect":0}],"text":"Soil"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Dermatophytoses","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Eumycetoma","isCorrect":1},{"text":"Cutaneous","isCorrect":0}],"text":"Through skin trauma (usually leg or foot)"},
+            {"answers":[{"text":"Eumycetoma","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Sporotrichosis","isCorrect":1},{"text":"Cutaneous","isCorrect":0}],"text":"Conidia via skin trauma (usually hand)"},
+            {"answers":[{"text":"Eumycetoma","isCorrect":0},{"text":"Cutaneous","isCorrect":1},{"text":"Sporotrichosis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0}],"text":"Endogenous"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Eumycetoma","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":1}],"text":"Direct or indirect contact"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Mycetoma","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1},{"text":"Fish tank granuloma","isCorrect":0}],"text":"Normal skin flora"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":1}],"text":"Inoculation of spores from environment"},
+            {"answers":[{"text":"Folliculitis","isCorrect":0},{"text":"Mycetoma","isCorrect":1},{"text":"Impetigo","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0}],"text":"Inoculation from environment"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":1},{"text":"Impetigo","isCorrect":0},{"text":"Folliculitis","isCorrect":0}],"text":"Nasal secretions or direct contact"},
+            {"answers":[{"text":"Impetigo","isCorrect":1},{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Mycetoma","isCorrect":0},{"text":"Folliculitis","isCorrect":0}],"text":"Person to person via direct contact; wound"},
+            {"answers":[{"text":"Impetigo","isCorrect":0},{"text":"Folliculitis","isCorrect":1},{"text":"Mycetoma","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0}],"text":"Person to person via direct contact; wound"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Impetigo","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Folliculitis","isCorrect":1}],"text":"Adhesion & protection: surface adhesins, coagulase & clumping factor, protein A"},
+            {"answers":[{"text":"Folliculitis","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Mycetoma","isCorrect":0},{"text":"Impetigo","isCorrect":1}],"text":"Spreading & damage: streptolysins, streptokinase, hyaluronidase, other exo-enzymes"},
+            {"answers":[{"text":"Impetigo","isCorrect":0},{"text":"Folliculitis","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":1},{"text":"Mycetoma","isCorrect":0}],"text":"Obligate intracellular parasites of macrophages and schwann cells =>chronic granulomatous disease of peripheral nerves and superficial tissues"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":1}],"text":"Polypeptide capsule (protection); PA+EF=edema toxin => adenylate cyclase activity; PA+LF=lethal toxin => tissue necrosis"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1}],"text":"Superficial inifection of keratinized cells; interferes with melanin production"},
+            {"answers":[{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Dermatophytoses","isCorrect":1}],"text":"Infection through minor skin lesions => growth in keratinized tissues => mechanical and enzymatic tissue damage + inflammation"},
+            {"answers":[{"text":"Dermatophytoses","isCorrect":0},{"text":"Cutaneous","isCorrect":1},{"text":"Dermal anthrax","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Pseudohyphae and hyphae formation in vivo"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Eumycetoma","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Multiple granulomas & abscesses with drainage"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":1},{"text":"Eumycetoma","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Wart-like pigmented lesions (painless)"}
+        ]},
+
+        {"title":"Clinical Presentation","questions":[
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":1},{"text":"Eumycetoma","isCorrect":0}],"text":"Wart-like pigmented lesions (painless)"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Eumycetoma","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":0}],"text":"Multiple granulomas & abscesses with drainage"},
+            {"answers":[{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Eumycetoma","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1},{"text":"Dermal anthrax","isCorrect":0}],"text":"Hypo or hyperpigmented patches"},
+            {"answers":[{"text":"Eumycetoma","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":1}],"text":"Initial erythematous papule progresses to black eschar surrounded by edema"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Mycetoma","isCorrect":0},{"text":"Sporotrichosis","isCorrect":1},{"text":"Dermatophytoses","isCorrect":0}],"text":"Pustular nodular lesions at primary site of infection then along lymphatic drainage route"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Cutaneous","isCorrect":1}],"text":"Skin: macerated skin surface, macular erythematous rash; Mucosa: thrush, vaginal candidiasis"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Mycetoma","isCorrect":0},{"text":"Dermatophytoses","isCorrect":1}],"text":"Depend on site of infection: ring worm, athlete's foot, favus, hyperkeratotic reaction on nails (onychomycosis)..., itching, scaling ring-like lesion"},
+            {"answers":[{"text":"Sporotrichosis","isCorrect":0},{"text":"Mycetoma","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0}],"text":"N. brasiliensis: Cellulitis w/ swelling, subcutaneous abscess, granules;  N. asteroides: brain abscess"},
+            {"answers":[{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":1},{"text":"Folliculitis","isCorrect":0},{"text":"Impetigo","isCorrect":0}],"text":"Nonhealing soft tissue granuloma"},
+            {"answers":[{"text":"Fish tank granuloma","isCorrect":0},{"text":"Folliculitis","isCorrect":0},{"text":"Impetigo","isCorrect":1},{"text":"Lepromatous leprosy","isCorrect":0}],"text":"Impetigo: honey-colored crust; Erysipelas: involves dermal lymphatics; Cellulitis: involves subcutaneous fat layer; Scarlet fever: diffuse erythematous rash, strawberry tongue: TSS: same as above "},
+            {"answers":[{"text":"Folliculitis","isCorrect":1},{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Impetigo","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0}],"text":"Folliculitis: infection of hair follicle; Furuncule (boil): painful pus-filled nodules; Carbuncle: multiple boils; Impetigo: honey-colored crust; Bullous impetigo: bullae (blisters)"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Fish tank granuloma","isCorrect":1},{"text":"Folliculitis","isCorrect":0},{"text":"Impetigo","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0}],"text":"Acid fast rods, culture"},
+            {"answers":[{"text":"Impetigo","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":1},{"text":"Folliculitis","isCorrect":0}],"text":"Numerous acid-fast rods; (-) lepromin"},
+            {"answers":[{"text":"Folliculitis","isCorrect":0},{"text":"Lepromatous leprosy","isCorrect":0},{"text":"Fish tank granuloma","isCorrect":0},{"text":"Impetigo","isCorrect":1}],"text":"Gram stain; Culture: beta-hemoltic, bacitricin sensitive, PYR(+)"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0},{"text":"Folliculitis","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Important to do antibiotic susceptibility tests"},
+            {"answers":[{"text":"Mycetoma","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0},{"text":"Folliculitis","isCorrect":0}],"text":"Culture"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":1},{"text":"Mycetoma","isCorrect":0},{"text":"Folliculitis","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Gram stain, culture"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1},{"text":"Folliculitis","isCorrect":0},{"text":"Mycetoma","isCorrect":0}],"text":"Microsocpy: yeast + short hyphae (spaghetti and meatballs)"},
+            {"answers":[{"text":"Sporotrichosis","isCorrect":0},{"text":"Dermatophytoses","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":0}],"text":"Microscopy: hyphae & arthroconidia on KOH mount; culture; fluoresce under UV light"},
+            {"answers":[{"text":"Dermatophytoses","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Sporotrichosis","isCorrect":0},{"text":"Cutaneous","isCorrect":1}],"text":"Microscopy, culture, germ-tube formation "},
+            {"answers":[{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Sporotrichosis","isCorrect":1},{"text":"Dermatophytoses","isCorrect":0},{"text":"Cutaneous","isCorrect":0}],"text":"Microscopy: cigar-shaped yeast or daisy head conidia; Culture on Sabouraud"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0},{"text":"Eumycetoma","isCorrect":1},{"text":"Sporotrichosis","isCorrect":0}],"text":"Microscopy of pus; dark granules containing hyphae"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Dermatophytoses","isCorrect":0},{"text":"Eumycetoma","isCorrect":1},{"text":"Sporotrichosis","isCorrect":0},{"text":"Mycetoma","isCorrect":0}],"text":"No efficient antifungal agent; amputation"},
+            {"answers":[{"text":"Sporotrichosis","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":1},{"text":"Eumycetoma","isCorrect":0},{"text":"Mycetoma","isCorrect":0}],"text":"Itraconazole"},
+            {"answers":[{"text":"Sporotrichosis","isCorrect":1},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Mycetoma","isCorrect":0},{"text":"Eumycetoma","isCorrect":0}],"text":"Itraconazole;  Potassium iodine; Amphotericin B (for systemic infections)"},
+            {"answers":[{"text":"Mycetoma","isCorrect":0},{"text":"Chromoblastomycosis","isCorrect":0},{"text":"Eumycetoma","isCorrect":0},{"text":"Sporotrichosis","isCorrect":1}],"text":"Sulfonamides"},
+            {"answers":[{"text":"Cutaneous","isCorrect":1},{"text":"Pityriasis versicolor","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0},{"text":"Dermatophytoses","isCorrect":0}],"text":"Nystatin or azole"},
+            {"answers":[{"text":"Dermatophytoses","isCorrect":1},{"text":"Dermal anthrax","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Topical: imidazoles; Systemic therapy: imidazoles or griseofulvin"},
+            {"answers":[{"text":"Dermatophytoses","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0}],"text":"Topical azole"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Dermal anthrax","isCorrect":1},{"text":"Dermatophytoses","isCorrect":0},{"text":"Pityriasis versicolor","isCorrect":0}],"text":"Fluoroquinolones"},
+            {"answers":[{"text":"Impetigo","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Dermal anthrax","isCorrect":0},{"text":"Folliculitis","isCorrect":1}],"text":"MSSA:penicillinase-resistant penicillins (e.g.nafcillin); MRSA: vancomycin; VRSA: linezolid or daptomycin; For TSST add clindamycin"},
+            {"answers":[{"text":"Dermal anthrax","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Folliculitis","isCorrect":0},{"text":"Impetigo","isCorrect":1}],"text":"Penicillin"}
+        ]}
+    ]},
+
+    {"title":"Gastrointestinal helminths","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Trichuriasis","isCorrect":0},{"text":"Ascariasis","isCorrect":0},{"text":"Hookworm infection","isCorrect":0},{"text":"Enterobiasis","isCorrect":1}],"text":"Enterobius vermicularis Pinworm"},
+            {"answers":[{"text":"Hookworm infection","isCorrect":0},{"text":"Trichuriasis","isCorrect":0},{"text":"Ascariasis","isCorrect":1},{"text":"Enterobiasis","isCorrect":0}],"text":"Ascaris lumbricoides The largest roundworm"},
+            {"answers":[{"text":"Trichuriasis","isCorrect":1},{"text":"Enterobiasis","isCorrect":0},{"text":"Hookworm infection","isCorrect":0},{"text":"Ascariasis","isCorrect":0}],"text":"Trichuris trichiura Whipworm"},
+            {"answers":[{"text":"Ascariasis","isCorrect":0},{"text":"Enterobiasis","isCorrect":0},{"text":"Trichuriasis","isCorrect":0},{"text":"Hookworm infection","isCorrect":1}],"text":"Necator americanus & Ancyclostoma duodenale Hookworms"},
+            {"answers":[{"text":"Taeniasis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":1},{"text":"Cysticercosis","isCorrect":0}],"text":"Strongyloides stercoralis Threadworm"},
+            {"answers":[{"text":"Taeniasis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0},{"text":"Cutaneous","isCorrect":1}],"text":"Dog or Cat Roundworm (hookworm or Toxocara spp)"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Taeniasis","isCorrect":1},{"text":"Strongyloidiasis","isCorrect":0}],"text":"Taenia saginata Beef tapeworm"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Taeniasis","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0}],"text":"Taenia solium Pork tapeworm"},
+            {"answers":[{"text":"Taeniasis","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":1},{"text":"Hydatid cyst disease","isCorrect":0},{"text":"Cysticercosis","isCorrect":0}],"text":"Diphyllobothrium Fish tapeworm"},
+            {"answers":[{"text":"Hydatid cyst disease","isCorrect":1},{"text":"Cysticercosis","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Taeniasis","isCorrect":0}],"text":"Echinococcus spp Hydatid tapeworm"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":1},{"text":"Taeniasis","isCorrect":0}],"text":"Ingestion of eggs"},
+            {"answers":[{"text":"Diphyllobothriasis","isCorrect":1},{"text":"Taeniasis","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":0},{"text":"Cysticercosis","isCorrect":0}],"text":"Ingestion of raw fish containing sparganum (plerocercoid)"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Taeniasis","isCorrect":1}],"text":"Ingestion of raw beef containing cysticerci"},
+            {"answers":[{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Taeniasis","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":0},{"text":"Cysticercosis","isCorrect":1}],"text":"Ingestion of water or food contaminated with eggs"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0},{"text":"Trichuriasis","isCorrect":1},{"text":"Hookworm infection","isCorrect":0}],"text":"Ingestion of soil-contaminated food"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0},{"text":"Trichuriasis","isCorrect":0},{"text":"Hookworm infection","isCorrect":1}],"text":"Larva penetrates intact skin; Direct contact with contaminated soil"},
+            {"answers":[{"text":"Hookworm infection","isCorrect":1},{"text":"Cutaneous","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0},{"text":"Trichuriasis","isCorrect":0}],"text":"Larva penetrates intact skin; Direct contact with contaminated soil"},
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":1},{"text":"Trichuriasis","isCorrect":0},{"text":"Hookworm infection","isCorrect":0}],"text":"Hookworm = skin penetration  Toxocara = ingestion of eggs"},
+            {"answers":[{"text":"Strongyloidiasis","isCorrect":0},{"text":"Enterobiasis","isCorrect":1},{"text":"Ascariasis","isCorrect":0},{"text":"Cutaneous","isCorrect":0}],"text":"Ingestion of embryonated eggs; Direct contact; autoinfection"},
+            {"answers":[{"text":"Strongyloidiasis","isCorrect":0},{"text":"Enterobiasis","isCorrect":0},{"text":"Ascariasis","isCorrect":1},{"text":"Cutaneous","isCorrect":0}],"text":"Ingestion of contaminated food or water"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Enterobiasis","isCorrect":1},{"text":"Ascariasis","isCorrect":0},{"text":"Hookworm infection","isCorrect":0},{"text":"Trichuriasis","isCorrect":0}],"text":"Gravid female migrates to perianal region to lay eggs"},
+            {"answers":[{"text":"Trichuriasis","isCorrect":0},{"text":"Ascariasis","isCorrect":1},{"text":"Hookworm infection","isCorrect":0},{"text":"Enterobiasis","isCorrect":0}],"text":"In small intestine: egg larvae invade intestinal mucosa blood lungs alveoli up to throat swallowed back to small intestine adults worms multiplication"},
+            {"answers":[{"text":"Trichuriasis","isCorrect":1},{"text":"Hookworm infection","isCorrect":0},{"text":"Enterobiasis","isCorrect":0},{"text":"Ascariasis","isCorrect":0}],"text":"Multiplication in large intestine; possible penetration of intestinal mucosa"},
+            {"answers":[{"text":"Hookworm infection","isCorrect":1},{"text":"Enterobiasis","isCorrect":0},{"text":"Ascariasis","isCorrect":0},{"text":"Trichuriasis","isCorrect":0}],"text":"Larvae invade intestinal mucosa blood lungs alveoli up to throat swallowed  back to small intestine adults worms"},
+            {"answers":[{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Taeniasis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Cutaneous","isCorrect":1}],"text":"Larvae migrate under skin or in viscera"},
+            {"answers":[{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Taeniasis","isCorrect":1}],"text":"Intermediate host = cattle; Definitive host = humans"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":1},{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Taeniasis","isCorrect":0}],"text":"Eggs hatch in stomach, release oncosphere penetrate intestinal wall circulation  different tissues to develops into cysticercus"},
+            {"answers":[{"text":"Taeniasis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":1}],"text":"2 intermediate host = crustaceans then fish; definitive host = humans"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":1}],"text":"Humans are accidental intermediate hosts"}
+        ]},
+
+        {"title":"Diagnostic forms","questions":[
+            {"answers":[{"text":"Cutaneous","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":0},{"text":"Cysticercosis","isCorrect":1}],"text":""},
+            {"answers":[{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":1}],"text":"Hydatid cyst in tissues"},
+            {"answers":[{"text":"Hydatid cyst disease","isCorrect":0},{"text":"Cutaneous","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":1},{"text":"Cysticercosis","isCorrect":0}],"text":"Eggs and/or rosette proglottids in stools"},
+            {"answers":[{"text":"Hookworm infection","isCorrect":1},{"text":"Trichuriasis","isCorrect":0},{"text":"Ascariasis","isCorrect":0},{"text":"Enterobiasis","isCorrect":0}],"text":"Eggs in stool ( thin shell)"},
+            {"answers":[{"text":"Trichuriasis","isCorrect":1},{"text":"Hookworm infection","isCorrect":0},{"text":"Enterobiasis","isCorrect":0},{"text":"Ascariasis","isCorrect":0}],"text":"Eggs in stool (barrel-shaped with bipolar plugs)"},
+            {"answers":[{"text":"Trichuriasis","isCorrect":0},{"text":"Enterobiasis","isCorrect":0},{"text":"Hookworm infection","isCorrect":0},{"text":"Ascariasis","isCorrect":1}],"text":"Eggs in stool (bile-stained, thick shell, round/oval knobby eggs); Occasionally adult worms in stool, mouth or nose"},
+            {"answers":[{"text":"Ascariasis","isCorrect":0},{"text":"Trichuriasis","isCorrect":0},{"text":"Enterobiasis","isCorrect":1},{"text":"Hookworm infection","isCorrect":0}],"text":"Eggs collected in perianal area Scotch test (egg flat on one side)"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Hookworm infection","isCorrect":0},{"text":"Trichuriasis","isCorrect":0},{"text":"Enterobiasis","isCorrect":1},{"text":"Ascariasis","isCorrect":0}],"text":"Albendazole (treat the entire family)"},
+            {"answers":[{"text":"Strongyloidiasis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Taeniasis","isCorrect":0},{"text":"Ascariasis","isCorrect":1}],"text":"Albendazole or Mebendazole"},
+            {"answers":[{"text":"Taeniasis","isCorrect":1},{"text":"Cysticercosis","isCorrect":0},{"text":"Ascariasis","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0}],"text":"Praziquantel"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0},{"text":"Ascariasis","isCorrect":0},{"text":"Taeniasis","isCorrect":1}],"text":"Praziquantel"},
+            {"answers":[{"text":"Ascariasis","isCorrect":0},{"text":"Cysticercosis","isCorrect":1},{"text":"Taeniasis","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0}],"text":"Abendazole. Praziquantel; surgery"},
+            {"answers":[{"text":"Hydatid cyst disease","isCorrect":0},{"text":"Diphyllobothriasis","isCorrect":1},{"text":"Strongyloidiasis","isCorrect":0},{"text":"Ascariasis","isCorrect":0}],"text":"Praziquantel + Vit B12"},
+            {"answers":[{"text":"Diphyllobothriasis","isCorrect":0},{"text":"Hydatid cyst disease","isCorrect":1},{"text":"Ascariasis","isCorrect":0},{"text":"Strongyloidiasis","isCorrect":0}],"text":"Surgery , albendazole"}
+        ]}
+    ]},
+
+    {"title":"Sexually Transmited Infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Lymphogranu-loma Venereum","isCorrect":0},{"text":"Chlamydia","isCorrect":0},{"text":"Gonorrhea","isCorrect":1},{"text":"Syphilis","isCorrect":0}],"text":"Neisseria gonorrhoeae"},
+            {"answers":[{"text":"Lymphogranu-loma Venereum","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":1}],"text":"Chlamydia trachomatis (serovars D to K)   "},
+            {"answers":[{"text":"Lymphogranu-loma Venereum","isCorrect":1},{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":0},{"text":"Syphilis","isCorrect":0}],"text":"Chlamydia trachomatis (serovars L1 to L3)"},
+            {"answers":[{"text":"Syphilis","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Chancroid","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0}],"text":"Treponema pallidum "},
+            {"answers":[{"text":"Syphilis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Chancroid","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0}],"text":"Haemophilus ducreyi"},
+            {"answers":[{"text":"Chancroid","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Granuloma inguinale","isCorrect":1}],"text":"Klebsiella granulomatis"},
+            {"answers":[{"text":"Chancroid","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Syphilis","isCorrect":0}],"text":"Gardnerella vaginalis + anaerobes"},
+            {"answers":[{"text":"Chancroid","isCorrect":0},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Trichomoniasis","isCorrect":1},{"text":"Vulvovaginal Candidiasis","isCorrect":0}],"text":"Trichomonas vaginalis "},
+            {"answers":[{"text":"Trichomoniasis","isCorrect":1},{"text":"Chancroid","isCorrect":0},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":0}],"text":"Candida albicans"}
+        ]},
+
+        {"title":"Characteristics","questions":[
+            {"answers":[{"text":"Gonorrhea","isCorrect":1},{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Trichomoniasis","isCorrect":0},{"text":"Chancroid","isCorrect":0}],"text":"GN diplococci; bean-shaped; oxidase(+); fastidious; facultative intracellular"},
+            {"answers":[{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Chancroid","isCorrect":1},{"text":"Trichomoniasis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0}],"text":"Small, pleomorphic, GNR"},
+            {"answers":[{"text":"Gonorrhea","isCorrect":0},{"text":"Chancroid","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Trichomoniasis","isCorrect":1}],"text":"Flagellate protozoa; only trophozoite form, no cyst form"},
+            {"answers":[{"text":"Chancroid","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Trichomoniasis","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":1}],"text":"Budding yeast with hyphae and pseudophyphae"},
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":0},{"text":"Chlamydia","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":1}],"text":"Gram-variable coccobacilli"},
+            {"answers":[{"text":"Syphilis","isCorrect":0},{"text":"Granuloma inguinale","isCorrect":1},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Chlamydia","isCorrect":0}],"text":"Intracellular encapsulated GNR "},
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Syphilis","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Chlamydia","isCorrect":0}],"text":"Spirochetes, no growth on artificial media, endoflagellum, obligate pathogen"},
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":0},{"text":"Chlamydia","isCorrect":1},{"text":"Syphilis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0}],"text":"Obligate intracellular pathogen; no peptidoglycan layer; Elementary Body (EB) & Reticulate Body (RB)"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Gonorrhea","isCorrect":1},{"text":"Lymphogranu-loma Venereum","isCorrect":0},{"text":"Chlamydia","isCorrect":1},{"text":"Syphilis","isCorrect":1}],"text":"Infected patients"},
+            {"answers":[{"text":"Chlamydia","isCorrect":0},{"text":"Syphilis","isCorrect":1},{"text":"Lymphogranu-loma Venereum","isCorrect":0},{"text":"Gonorrhea","isCorrect":0}],"text":"Infected patients (highly infectious during primary & secondary syphilis))"},
+            {"answers":[{"text":"Syphilis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":1},{"text":"Lymphogranu-loma Venereum","isCorrect":0},{"text":"Gonorrhea","isCorrect":0}],"text":"Human normal flora"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Chlamydia","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Lymphogranu-loma Venereum","isCorrect":0},{"text":"Gonorrhea","isCorrect":1}],"text":"Sexual contact; transmission to newborn from infected mother during delivery "},
+            {"answers":[{"text":"Lymphogranu-loma Venereum","isCorrect":0},{"text":"Syphilis","isCorrect":1},{"text":"Chlamydia","isCorrect":0},{"text":"Gonorrhea","isCorrect":0}],"text":"Direct contact,transplacental infection of fetus (Congenital Syphilis),transfusion,IV drug users"},
+            {"answers":[{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":0},{"text":"Lymphogranu-loma Venereum","isCorrect":1},{"text":"Syphilis","isCorrect":0}],"text":"Sexual contact especially in Africa, Asia, South America"},
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Granuloma inguinale","isCorrect":1},{"text":"Trichomoniasis","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":0}],"text":"Sexual contact"},
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Trichomoniasis","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":0}],"text":"Endogenous infection"},
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Trichomoniasis","isCorrect":1},{"text":"Bacterial Vaginosis ","isCorrect":0}],"text":"Infective form: trophozoite; sexual contact; transmission to newborn from infected mother during delivery "}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":1},{"text":"Trichomoniasis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":0}],"text":"Intracellur growth; capsule"},
+            {"answers":[{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Trichomoniasis","isCorrect":0}],"text":"Shift in vaginal flora: Lactobacillus spp. replaced by Gardnerella vaginalis and anaerobes; increased vaginal pH"},
+            {"answers":[{"text":"Chlamydia","isCorrect":0},{"text":"Gonorrhea","isCorrect":1},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Syphilis","isCorrect":0}],"text":"Attachment & invasion of epithelial cells (Pili & Opa) Transcytosis Survival in submucosa (LOS,Pili & Opa proteins – antigenic variation, Por proteins,IgA protease) Inflammation & local damage Spread  and dissemination"},
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":1},{"text":"Syphilis","isCorrect":0}],"text":"EB: infectious, survives outside the host, non reproductive particle; RB: noninfectious, intracytoplasmic, reproductive form; tropism for epithelial cells; granulomatous immune response "},
+            {"answers":[{"text":"Syphilis","isCorrect":1},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":0}],"text":"Antigenically unreactive surface; Patient's immune response (tissue damage) = endarteritis; antibody production does not eliminate = chronic infection"}
+        ]},
+
+        {"title":"Clinical Presentation","questions":[
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Chlamydia","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Gonorrhea","isCorrect":1}],"text":"Women: cervicitis, vaginal discharge; Men: urethritis, urethral discharge"},
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":1},{"text":"Gonorrhea","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Chlamydia","isCorrect":0}],"text":"Thin vaginal discharge (Whiff test = unpleasant fishy odor); dysuria. Associated with PID, preterm delivery…"},
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Chlamydia","isCorrect":1}],"text":"Women: cervicitis, purulent discharge; Men: urethritis, urethral discharge; Complications: mainly in women (ascending genital infection PID, infertility & ectopic pregnancy)"},
+            {"answers":[{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Syphilis","isCorrect":1}],"text":"Painless ulcer at site of infection,heals spontaneously : flu-like syndrome, lymphadenopathy, generalized rash"},
+            {"answers":[{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Trichomoniasis","isCorrect":1},{"text":"Gonorrhea","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0}],"text":"Women (occassionally symptomatic): vaginitis with watery, green discharge (foamy, foul-smelling), strawberry cervix, dysuria; Men carriers, rarely symptomatic"},
+            {"answers":[{"text":"Trichomoniasis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":1}],"text":"Pruritis & erythema of vulvar area; cheesy vaginal discharge; predisposition with diabetes, antibiotic use, immunosuppression"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Trichomoniasis","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":1},{"text":"Gonorrhea","isCorrect":0}],"text":"Microscopy (pseudohyphae & budding yeasts), Culture (sabouraud agar); Germ-tubes formation"},
+            {"answers":[{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Trichomoniasis","isCorrect":1}],"text":"Diagnostic form: trophozoite; Microscopy (wet mount, giemsa); Culture (Diamond's medium); other rapid tests."},
+            {"answers":[{"text":"Trichomoniasis","isCorrect":0},{"text":"Vulvovaginal Candidiasis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":1}],"text":"Microscopy (clue cells); Vaginal pH > 4.5; Whiff test"},
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Syphilis","isCorrect":1},{"text":"Chancroid","isCorrect":0}],"text":"Microscopy (darkfield, direct fluorescence antibody test,Silver staining); Nontreponemal tests  for reagin (non-specific: VDRL or RPR tests, using cardiolipin antigen)"},
+            {"answers":[{"text":"Chancroid","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Syphilis","isCorrect":0}],"text":"Clinical, microscopy (school of fish), culture (fastidious)"},
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":1},{"text":"Syphilis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Chancroid","isCorrect":0}],"text":"Microscopy: Donovan bodies; No growth on artificial media "},
+            {"answers":[{"text":"Gonorrhea","isCorrect":1},{"text":"Chlamydia","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Chancroid","isCorrect":0}],"text":"Microscopy (GNDC in cytoplasm of neutrophils), Glucose utilization only, Nucleic acid amplification tests (NAAT), Genetic probes, Culture (Thayer-Martin agar) "},
+            {"answers":[{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":1},{"text":"Chancroid","isCorrect":0},{"text":"Syphilis","isCorrect":0}],"text":"Nucleic acid amplification tests (NAAT), Genetic probes; not seen on gram stain but can see cytoplasmic inclusions"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Chancroid","isCorrect":0},{"text":"Chlamydia","isCorrect":1},{"text":"Syphilis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0}],"text":"Azithromycin or Doxycycline "},
+            {"answers":[{"text":"Chancroid","isCorrect":0},{"text":"Gonorrhea","isCorrect":1},{"text":"Chlamydia","isCorrect":0},{"text":"Syphilis","isCorrect":0}],"text":"Ceftriaxone (penicillin  resistant due to beta-lactamases)"},
+            {"answers":[{"text":"Chancroid","isCorrect":1},{"text":"Syphilis","isCorrect":0},{"text":"Gonorrhea","isCorrect":0},{"text":"Chlamydia","isCorrect":0}],"text":"Azithromycin or Ceftriaxone"},
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":0},{"text":"Syphilis","isCorrect":1},{"text":"Chancroid","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0}],"text":"Benzathine Penicillin "},
+            {"answers":[{"text":"Granuloma inguinale","isCorrect":1},{"text":"Bacterial Vaginosis ","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Chancroid","isCorrect":0}],"text":"Doxycycline"},
+            {"answers":[{"text":"Chancroid","isCorrect":0},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":1}],"text":"Metronidazole "},
+            {"answers":[{"text":"Vulvovaginal Candidiasis","isCorrect":1},{"text":"Granuloma inguinale","isCorrect":0},{"text":"Syphilis","isCorrect":0},{"text":"Bacterial Vaginosis ","isCorrect":0}],"text":"Azoles"}
+        ]}
+    ]},
+
+    {"title":"Wound Infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cellulitis","isCorrect":0}],"text":"Clostridium perfringens"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Cellulitis","isCorrect":0}],"text":"Bacteroides"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cellulitis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Actinomycosis","isCorrect":1}],"text":"Actinomyces (A.israelii)"},
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Cellulitis","isCorrect":1},{"text":"Polymicrobial wound infections","isCorrect":0}],"text":"Capnocytophaga"},
+            {"answers":[{"text":"Cellulitis","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":1},{"text":"Necrotic cellulitis","isCorrect":0}],"text":"Bartonella henselae"},
+            {"answers":[{"text":"Necrotic cellulitis","isCorrect":1},{"text":"Cellulitis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0},{"text":"Actinomycosis","isCorrect":0}],"text":"Vibrio vulnificus"}
+        ]},
+
+        {"title":"Physical properties","questions":[
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":1},{"text":"Actinomycosis","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0}],"text":"GNR"},
+            {"answers":[{"text":"Actinomycosis","isCorrect":1},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0}],"text":"GPR; long branching filaments"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":1},{"text":"Actinomycosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0}],"text":"GNR, Fusiform"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0}],"text":"GPR; spore forming, anaerobe"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0}],"text":"GI and Oral cavity flora"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":1},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0}],"text":"Environment (spore); GI and genital flora (vegetative form)"},
+            {"answers":[{"text":"Cat-scratch disease","isCorrect":1},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0}],"text":"Animals (cats) "},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Actinomycosis","isCorrect":1},{"text":"Cat-scratch disease","isCorrect":0}],"text":"Normal flora of oral cavity "}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Actinomycosis","isCorrect":1},{"text":"Cat-scratch disease","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0}],"text":"Suppurative and granulomatous disease of cervicofacial (lumpy jaw) or pelvic areas; draining fistula"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":1},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0}],"text":"Gas production, necrotizing and hemolytic exotoxins (α toxin), collagenase and hyaluronidase => spreading edema & necrosis"},
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":1},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0}],"text":"Papules or pustules at the inoculation site + regional lymphadenopathy; bacillary angiomatosis in AIDS patients"},
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":1}],"text":"Opportunistic pathogens: wide variety of infections"},
+            {"answers":[{"text":"Cat-scratch disease","isCorrect":0},{"text":"Cellulitis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Necrotic cellulitis","isCorrect":0}],"text":"LPS"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Gas Gangrene","isCorrect":1},{"text":"Actinomycosis","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cellulitis","isCorrect":0}],"text":"Wound - spore in dirt, clothing, foreign material…"},
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":1},{"text":"Cellulitis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0}],"text":"Endogenous: wound, trauma, surgery…"},
+            {"answers":[{"text":"Actinomycosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cellulitis","isCorrect":0}],"text":"Dental procedures, trauma "},
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cellulitis","isCorrect":1}],"text":"Human bite infection"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":1}],"text":"Cat scratches "}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":1},{"text":"Polymicrobial wound infections","isCorrect":0}],"text":"Microscopy - rods in lymph nodes; serology"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0},{"text":"Actinomycosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0}],"text":"Sulfur granules in abscesses, microscopy, culture (molar tooth appearance colonies)"},
+            {"answers":[{"text":"Actinomycosis","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1},{"text":"Cat-scratch disease","isCorrect":0}],"text":"Clinical, X-ray, microscopy, culture: blood agar (double zone hemolysis), Nagler reaction (lecithinase activity), Milk Medium (stormy fermentation)"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0}],"text":"Microscopy, biochemical tests, gas chromatography"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1},{"text":"Actinomycosis","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0}],"text":"Penicillin + Clindamycin; surgery; hyperbaric chamber"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Actinomycosis","isCorrect":0},{"text":"Polymicrobial wound infections","isCorrect":1},{"text":"Cat-scratch disease","isCorrect":0}],"text":"Metronidazole, surgery"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":1},{"text":"Actinomycosis","isCorrect":0}],"text":"Antibiotics not indicated in most cases; severe = azithromycin or doxycycline"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cat-scratch disease","isCorrect":0},{"text":"Actinomycosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0}],"text":"Surgical drainage; Penicillin"},
+            {"answers":[{"text":"Polymicrobial wound infections","isCorrect":0},{"text":"Cellulitis","isCorrect":0},{"text":"Necrotic cellulitis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0}],"text":"Doxycycline + 3GC"}
+        ]}
     ]}
-
-
 ]
