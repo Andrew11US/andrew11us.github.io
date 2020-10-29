@@ -550,5 +550,366 @@
             {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus saprophyticus","isCorrect":1},{"text":"Streptococcus agalactiae","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0}],"text":"Adhesins; inflammation"},
             {"answers":[{"text":"Staphylococcus saprophyticus","isCorrect":0},{"text":"Klebsiella pneumoniae","isCorrect":0},{"text":"Streptococcus agalactiae","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0}],"text":"Capsule"}
         ]}
+    ]},
+
+    {"title":"CNS infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":1}],"text":"Streptococcus agalactiae"},
+            {"answers":[{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Neonate meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":1}],"text":"Streptococcus pneumoniae"},
+            {"answers":[{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":1},{"text":"Neonate meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0}],"text":"Neisseria meningitidis"},
+            {"answers":[{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":1},{"text":"Neonate meningitis","isCorrect":0}],"text":"Haemophilus influenzae type-b"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Listeriosis","isCorrect":1},{"text":"Subacute to chronic meningitis","isCorrect":0}],"text":"Listeria monocytogenes"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Subacute to chronic meningitis","isCorrect":0}],"text":"Mycobacterium tuberculosis"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Subacute to chronic meningitis","isCorrect":1},{"text":"Spinal tuberculosis","isCorrect":0}],"text":"Cryptococcus neoformans"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":1},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Subacute to chronic meningitis","isCorrect":0}],"text":"Nagleria fowleri"},
+            {"answers":[{"text":"Toxoplasmosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":1},{"text":"Listeriosis","isCorrect":0}],"text":"Acanthamoeba spp."},
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":1}],"text":"Toxoplasma gondii"}
+        ]},
+
+        {"title":"Properties","questions":[
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0}],"text":"Intracellular protozoa"},
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0}],"text":"Opportunistic free-living amoebae"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":1}],"text":"Free-living amoebae"},
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Listeriosis","isCorrect":1},{"text":"Toxoplasmosis","isCorrect":0}],"text":"Small GPR, non-spore forming, growth at 4°C to 35°C, tumbling motility"},
+            {"answers":[{"text":"Neonate meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":1}],"text":"Capsule serovar b (Hib)"},
+            {"answers":[{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":1},{"text":"Neonate meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0}],"text":"Capsule Serogroups: A,B,C,Y,W135"},
+            {"answers":[{"text":"Pneumococcal meningitis","isCorrect":1},{"text":"Meningococcemia","isCorrect":0},{"text":"Neonate meningitis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0}],"text":"GPC, in chains or pairs, lancet-shaped"},
+            {"answers":[{"text":"Neonate meningitis","isCorrect":1},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0}],"text":"GNR, lactose (+), indole (+), Enterobacteriaceae "}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Meningococcemia","isCorrect":0},{"text":"Neonate meningitis","isCorrect":1},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0}],"text":"Normal flora GI tract, secondary spread to vagina"},
+            {"answers":[{"text":"Neonate meningitis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":1}],"text":"Normal flora"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Meningococcemia","isCorrect":1},{"text":"Subacute to chronic meningitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0}],"text":"Asymto-matic carrier"},
+            {"answers":[{"text":"Subacute to chronic meningitis","isCorrect":0},{"text":"Listeriosis","isCorrect":1},{"text":"Meningococcemia","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0}],"text":"Intestine of animals and humans"},
+            {"answers":[{"text":"Spinal tuberculosis","isCorrect":1},{"text":"Meningococcemia","isCorrect":0},{"text":"Subacute to chronic meningitis","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"Infected humans"},
+            {"answers":[{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Subacute to chronic meningitis","isCorrect":1}],"text":"Soil enriched with bird droppings"},
+            {"answers":[{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":1},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0}],"text":"Warm fresh water"},
+            {"answers":[{"text":"Toxoplasmosis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":1}],"text":"Soil; fresh, brackish, sea water; sewage, swimming pool. Contact lens equipment"},
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":1},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0}],"text":"Cat = definitive host"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":1}],"text":"Ingestion (uncooked meat with cyst, oocyst from fecal contamination), transplacental, blood and organ transplant"},
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":1},{"text":"Toxoplasmosis","isCorrect":0}],"text":"Enter body via olfactory neuroepithelium"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":1},{"text":"Toxoplasmosis","isCorrect":0}],"text":"Enter in inhaled dust or via contact with skin wounds/cuts"},
+            {"answers":[{"text":"Toxoplasmosis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":1},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0}],"text":"Inhalation"},
+            {"answers":[{"text":"Listeriosis","isCorrect":1},{"text":"Neonate meningitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0}],"text":"Ingestion of contaminated food (unpasteurized food/milk, deli meats), transplacentally, or during delivery"},
+            {"answers":[{"text":"Toxoplasmosis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":1},{"text":"Listeriosis","isCorrect":0}],"text":"Person to person via respiratory droplets"},
+            {"answers":[{"text":"Neonate meningitis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0}],"text":"From colonized mother (delivery, infected amniotic fluid); or nosocomial transmission"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Meningococcemia","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":1}],"text":"K1 capsule, pili, cytotoxins, endotoxin (LPS)"},
+            {"answers":[{"text":"Toxoplasmosis","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":1}],"text":"Endotoxins (LPS, LOS): diffuse vascular damage"},
+            {"answers":[{"text":"Meningococcemia","isCorrect":0},{"text":"Neonate meningitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Listeriosis","isCorrect":1}],"text":"Facultative intracellular pathogen(internalins, listerolysin), cell to cell spread (ActA)"},
+            {"answers":[{"text":"Toxoplasmosis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":1},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0}],"text":"Pneumolysin"},
+            {"answers":[{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":1},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0}],"text":"Endotoxin (LPS); Capsule = poly-ribitol-phosphate (PRP)"},
+            {"answers":[{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":1},{"text":"Toxoplasmosis","isCorrect":0}],"text":"Facultative intracellular pathogen; sulfolipids, cord factor, cell wall mycolic acid and lipids; Hematogenous spread"},
+            {"answers":[{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":1},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0}],"text":"Infective form: cyst, oocyst; Intermediate host: other animal + humans; Oocyst  tachyzoites  invade macrophages  spread to all organ systems: cyst bradyzoites"},
+            {"answers":[{"text":"Subacute to chronic meningitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":1}],"text":"Infective form: trophozoite "},
+            {"answers":[{"text":"Subacute to chronic meningitis","isCorrect":1},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0}],"text":"Blood invasion from lungs => brain"}
+        ]},
+
+        {"title":"Clinical Presentation","questions":[
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":1},{"text":"Neonate meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0}],"text":"May follow respiratory or ear infections, head trauma..."},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":1},{"text":"Meningococcemia","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0}],"text":"Non specific: fever, poor feeding, vomiting, irritability alterning with lethargy…"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":1}],"text":"Petechial skin rash    Severe form = Waterhouse-Friderichsen"},
+            {"answers":[{"text":"Listeriosis","isCorrect":1},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0}],"text":"Granulomatosis infantiseptica (stillbirth, abscesses or granulomas in neonates); CNS (meningitis, encephalitis in immunocompromised - especially renal transplant patients- & elderly)"},
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":1},{"text":"Subacute to chronic meningitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0}],"text":"Neurological and/or characteristic skin lesions on central face"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":1},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Subacute to chronic meningitis","isCorrect":0}],"text":"Rapid onset, prefrontal headache, fever, nausea, altered sense of smell. Progresses rapidly, death in a few days"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Subacute to chronic meningitis","isCorrect":1}],"text":"Slow onset, headache, visual disturbances, abnormal mental status, seizure"},
+            {"answers":[{"text":"Subacute to chronic meningitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":1},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0}],"text":"Gradual onset (weeks), nonspecific symptoms  (headache, vomiting, fever)"},
+            {"answers":[{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":1}],"text":"Self limited flu-like illness (immunocompetent host); toxoplasmic encephalitis (immunocompromised host); congenital toxoplasmosis (maternal infection): stillbirth, chorioretinitis, neurological problems"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Toxoplasmosis","isCorrect":1},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0}],"text":"Rising/high titer IgM; tissue or fluid with tachyzoites (replicating) or bradyzoites (latent); PCR"},
+            {"answers":[{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":1}],"text":"Amebae in tissues"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":1},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0}],"text":"Acid -fast stain, culture on Lowenstein- Jensen; PCR"},
+            {"answers":[{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":1},{"text":"Granulomatous amebic encephalitis","isCorrect":0}],"text":"CSF: wet mount (motile trophozoites); Giemsa (trophozoites)"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":1}],"text":"GPC in pair + WBCs; Culture: blood agar α-hemolytic, optochin (S), bacitracin (R), bile soluble"},
+            {"answers":[{"text":"Meningococcemia","isCorrect":1},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"GNDC inside polymorphonuclear cells; Culture: chocolate agar; Utilizes glucose & maltose"},
+            {"answers":[{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":1}],"text":"GNCB + white blood cells; Culture: Chocolate agar (X & V factors)"},
+            {"answers":[{"text":"Meningococcemia","isCorrect":0},{"text":"Listeriosis","isCorrect":1},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0}],"text":"From blood or CSF: microscopy, culture (blood agar β-hemolytic), motility test"},
+            {"answers":[{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Neonate meningitis","isCorrect":1},{"text":"Meningococcemia","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"PCR, Latex particle agglutination, Culture (CSF, blood) =  blood agar β-hemolytic "}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Neonate meningitis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0}],"text":"Empirical therapy: ampicillin + cefotaxime or gentamicin"},
+            {"answers":[{"text":"Meningococcemia","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0}],"text":"13-valent conjugate vaccine; 23-valent polysaccharide vaccine"},
+            {"answers":[{"text":"Listeriosis","isCorrect":1},{"text":"Haemophilus meningitis","isCorrect":0},{"text":"Meningococcemia","isCorrect":0},{"text":"Pneumococcal meningitis","isCorrect":0}],"text":"Education for high-risk consumers"},
+            {"answers":[{"text":"Meningococcemia","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":1},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"Hib conjugate vaccine"},
+            {"answers":[{"text":"Meningococcemia","isCorrect":1},{"text":"Pneumococcal meningitis","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Haemophilus meningitis","isCorrect":0}],"text":"MCV4; MPSV4; monovalent Serogroup B"},
+            {"answers":[{"text":"Subacute to chronic meningitis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":1},{"text":"Amebic meningoencephalitis","isCorrect":0}],"text":"Isoniazid + rifampin + pyrazinamide + streptomycin"},
+            {"answers":[{"text":"Subacute to chronic meningitis","isCorrect":1},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0}],"text":"Amphotericin B + flucytosine"},
+            {"answers":[{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":1}],"text":"No fresh water up the nose "},
+            {"answers":[{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Granulomatous amebic encephalitis","isCorrect":1},{"text":"Toxoplasmosis","isCorrect":0},{"text":"Amebic meningoencephalitis","isCorrect":0}],"text":"Azoles in combination"},
+            {"answers":[{"text":"Amebic meningoencephalitis","isCorrect":0},{"text":"Spinal tuberculosis","isCorrect":0},{"text":"Toxoplasmosis","isCorrect":1},{"text":"Granulomatous amebic encephalitis","isCorrect":0}],"text":"Sulfadiazine + pyrimethamine (immunocompromised host); spiramycin (pregnant women)"}
+        ]}
+    ]},
+
+    {"title":"Musculoskeletal Infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Tetanus","isCorrect":1},{"text":"Osteomyelitis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0}],"text":"Clostridium tetani"},
+            {"answers":[{"text":"Tetanus","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1},{"text":"Cysticercosis","isCorrect":0}],"text":"Clostridium perfringens"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Tetanus","isCorrect":0},{"text":"Osteomyelitis","isCorrect":1}],"text":"Staphylococcus aureus"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Trichinosis","isCorrect":0}],"text":"Taenia solium"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Trichinosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0}],"text":"Trichinella spiralis"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Tetanus","isCorrect":1},{"text":"Cysticercosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0}],"text":"Spores ubiquitous in environment"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Tetanus","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":1}],"text":"Humans"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":1},{"text":"Osteomyelitis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Tetanus","isCorrect":0}],"text":"Environment (spore); GI and genital flora (vegetative form)"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Gas Gangrene","isCorrect":1},{"text":"Tetanus","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0}],"text":"Wound - spore in dirt, clothing, foreign material…"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":1},{"text":"Tetanus","isCorrect":0}],"text":"Person-to-person"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Tetanus","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0}],"text":"Wound - small scratch to severe injury "},
+            {"answers":[{"text":"Tetanus","isCorrect":0},{"text":"Cysticercosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0}],"text":"Ingestion of water or food contaminated with eggs"},
+            {"answers":[{"text":"Trichinosis","isCorrect":1},{"text":"Tetanus","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0}],"text":"Eating raw/undercooked wild animal meat"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Tetanus","isCorrect":0},{"text":"Cysticercosis","isCorrect":1},{"text":"Trichinosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0}],"text":"Eggs hatch in stomach, release oncosphere penetrate intestinal wall  circulation  different tissues to develops into cysticercus"},
+            {"answers":[{"text":"Tetanus","isCorrect":0},{"text":"Trichinosis","isCorrect":1},{"text":"Cysticercosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0}],"text":"Larvae released in intestines → migration to striated muscle and encyst"},
+            {"answers":[{"text":"Cysticercosis","isCorrect":0},{"text":"Trichinosis","isCorrect":0},{"text":"Tetanus","isCorrect":1},{"text":"Osteomyelitis","isCorrect":0}],"text":"Tetanospasmin: AB-neurotoxin - blocks release of inhibitory neurotransmitters (GABA, glycine --> unopposed firing of motor neuron --> constant contraction"},
+            {"answers":[{"text":"Trichinosis","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1},{"text":"Tetanus","isCorrect":0}],"text":"Gas production, necrotizing & hemolytic exotoxins (α toxin), collagenase & hyaluronidase --> spreading edema & necrosis"},
+            {"answers":[{"text":"Trichinosis","isCorrect":0},{"text":"Tetanus","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":1}],"text":"Adhesins (collagen& fibronectin-binding); biofilms, Protein A, coagulase, cytolysins, hyaluronidase"}
+        ]},
+
+        {"title":"Clinical Presentation","questions":[
+            {"answers":[{"text":"Osteomyelitis","isCorrect":0},{"text":"Tetanus","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Trichinosis","isCorrect":0}],"text":"Severe painful spasms and rigidity of the voluntary muscles: Spastic paralysis, trismus  (lockjaw), risus sardonicus, opisthotonus,  death"},
+            {"answers":[{"text":"Tetanus","isCorrect":0},{"text":"Osteomyelitis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Trichinosis","isCorrect":0}],"text":"Osteomyelitis, arthritis or myositis"},
+            {"answers":[{"text":"Tetanus","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Trichinosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1}],"text":"Severe pain, hemorrhagic bullae, “crepitance in tissue”, discoloration"},
+            {"answers":[{"text":"Trichinosis","isCorrect":0},{"text":"Cysticercosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0}],"text":"Cysticerci in the muscles: No symptoms; Cysticerci in the eyes: blurry or disturbed vision; Neurocysticercosis: seizures, and headaches "},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Trichinosis","isCorrect":1},{"text":"Cysticercosis","isCorrect":0}],"text":"Mild infection (low number of worms) - subclinical; heavy infection (large number of worms) - GI discomfort, muscle pain, splinter hemorrhages, eosinophilia"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Osteomyelitis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Trichinosis","isCorrect":0},{"text":"Cysticercosis","isCorrect":1}],"text":"Cysticercus in the tissue; antibody detection "},
+            {"answers":[{"text":"Osteomyelitis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Trichinosis","isCorrect":1}],"text":"Encysted larvae in muscle"},
+            {"answers":[{"text":"Tetanus","isCorrect":1},{"text":"Osteomyelitis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0}],"text":"Clinically based"},
+            {"answers":[{"text":"Osteomyelitis","isCorrect":0},{"text":"Tetanus","isCorrect":0},{"text":"Gas Gangrene","isCorrect":1},{"text":"Cysticercosis","isCorrect":0}],"text":"Clinical, X-ray, microscopy, culture: blood agar (double zone hemolysis), Nagler reaction (lecithinase activity), Milk Medium (stormy fermentation)"},
+            {"answers":[{"text":"Osteomyelitis","isCorrect":1},{"text":"Tetanus","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0},{"text":"Cysticercosis","isCorrect":0}],"text":"Catalase +; coagulase +; ferments mannitol, Beta-hemolytic"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Osteomyelitis","isCorrect":0},{"text":"Tetanus","isCorrect":1},{"text":"Cysticercosis","isCorrect":0},{"text":"Gas Gangrene","isCorrect":0}],"text":"Neutralization of unbound toxins (tetanus immunoglobulin); Supportive treatment; Wound treatment (metronidazole); vaccination"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":1},{"text":"Osteomyelitis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Tetanus","isCorrect":0}],"text":"Penicillin + Clindamycin; surgery; hyperbaric chamber"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Cysticercosis","isCorrect":0},{"text":"Tetanus","isCorrect":0},{"text":"Osteomyelitis","isCorrect":1}],"text":"MSSA = nafcillin or oxacillin; MRSA = vancomycin"},
+            {"answers":[{"text":"Trichinosis","isCorrect":1},{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Cysticercosis","isCorrect":0}],"text":"Albendazole or mebendazole"},
+            {"answers":[{"text":"Gas Gangrene","isCorrect":0},{"text":"Osteomyelitis","isCorrect":0},{"text":"Trichinosis","isCorrect":0},{"text":"Cysticercosis","isCorrect":1}],"text":"Abendazole. Praziquantel; surgery"}
+        ]}
+    ]},
+
+    {"title":"Small intestine diseases","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Pediactric watery diarrhea","isCorrect":0},{"text":"Traveler's Diarrhea","isCorrect":1},{"text":"Chronic diarrhea","isCorrect":0},{"text":"Watery diarrhea","isCorrect":0}],"text":"ETEC EnteroToxigenic E.coli"},
+            {"answers":[{"text":"Watery diarrhea","isCorrect":0},{"text":"Pediactric watery diarrhea","isCorrect":1},{"text":"Traveler's Diarrhea","isCorrect":0},{"text":"Chronic diarrhea","isCorrect":0}],"text":"EPEC EnteroPathogenic E.coli"},
+            {"answers":[{"text":"Watery diarrhea","isCorrect":0},{"text":"Pediactric watery diarrhea","isCorrect":0},{"text":"Chronic diarrhea","isCorrect":1},{"text":"Traveler's Diarrhea","isCorrect":0}],"text":"EAEC EnteroAggregative E.coli"},
+            {"answers":[{"text":"Traveler's Diarrhea","isCorrect":0},{"text":"Pediactric watery diarrhea","isCorrect":0},{"text":"Watery diarrhea","isCorrect":1},{"text":"Chronic diarrhea","isCorrect":0}],"text":"DAEC Diffusely Adherent E.coli"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Watery diarrhea (occasional blood)","isCorrect":0},{"text":"Cholera","isCorrect":1}],"text":"Vibrio cholerae (serogroups O1 and O139)"},
+            {"answers":[{"text":"Watery diarrhea (occasional blood)","isCorrect":1},{"text":"Cholera","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"Vibrio parahaemolyticus"},
+            {"answers":[{"text":"Watery diarrhea (occasional blood)","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Listeriosis","isCorrect":1}],"text":"Listeria monocytogenes"},
+            {"answers":[{"text":"Cholera","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Watery diarrhea (occasional blood)","isCorrect":0}],"text":"Bacillus cereus"},
+            {"answers":[{"text":"Staphylococcal food poisoning","isCorrect":1},{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0}],"text":"Staphylococcus aureus"},
+            {"answers":[{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":1},{"text":"Giardiasis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0}],"text":"Clostridium perfringens"},
+            {"answers":[{"text":"Giardiasis","isCorrect":1},{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0}],"text":"Giardia lamblia"},
+            {"answers":[{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"Cryptosporidium spp"}
+        ]},
+
+        {"title":"Physical properties","questions":[
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":1},{"text":"Diarrheal gastroenteritis","isCorrect":0}],"text":"Sporozoa"},
+            {"answers":[{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Giardiasis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"Flagellate"},
+            {"answers":[{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":1},{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Giardiasis","isCorrect":0}],"text":"Large GPR; Spore forming; Strict anaerobes"},
+            {"answers":[{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"GPR, motile; spore forming; beta-hemolytic"},
+            {"answers":[{"text":"Listeriosis","isCorrect":1},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Watery diarrhea","isCorrect":0}],"text":"GPR; tumbling motility"},
+            {"answers":[{"text":"Cholera","isCorrect":0},{"text":"Watery diarrhea","isCorrect":0},{"text":"Staphylococcal food poisoning","isCorrect":1},{"text":"Listeriosis","isCorrect":0}],"text":"GPC in cluster, catalase(+); coagulase(+); beta-hemolytic"},
+            {"answers":[{"text":"Watery diarrhea","isCorrect":1},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Cholera","isCorrect":0}],"text":"Enterobacteriaceae: GNR, reduce nitrates, oxidase (-)"},
+            {"answers":[{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Watery diarrhea","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Cholera","isCorrect":1}],"text":"Curved GNR, oxidase (+), lactose non-fermenter"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Watery diarrhea","isCorrect":1},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Cholera","isCorrect":0}],"text":"Human's intestine"},
+            {"answers":[{"text":"Cholera","isCorrect":1},{"text":"Watery diarrhea","isCorrect":0},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"Warm costal water"},
+            {"answers":[{"text":"Listeriosis","isCorrect":1},{"text":"Cholera","isCorrect":0},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Watery diarrhea","isCorrect":0}],"text":"Human intestines; unpasteurized dairy"},
+            {"answers":[{"text":"Cholera","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Watery diarrhea","isCorrect":0},{"text":"Staphylococcal food poisoning","isCorrect":1}],"text":"Normal human flora"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":1},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"Soil and human colon"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Giardiasis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"Fecal oral: Ingestion of contaminated food or water; direct contact; zoonotic (beaver) transmission"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Listeriosis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"Foodborne (deli and dairy)"},
+            {"answers":[{"text":"Giardiasis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0},{"text":"Staphylococcal food poisoning","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"Fecal oral: Ingestion of contaminated food or water; direct contact; zoonotic (beaver) transmission"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":1},{"text":"Staphylococcal food poisoning","isCorrect":0}],"text":"Ingestion of contaminated food (beef, poultry)"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":0},{"text":"Staphylococcal food poisoning","isCorrect":1}],"text":"Ingestion of preformed toxin (potato salad, custard…)"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Traveler's Diarrhea","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Cholera","isCorrect":1}],"text":"Ingestion of contaminated water or shellfish"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Traveler's Diarrhea","isCorrect":1},{"text":"Cholera","isCorrect":0}],"text":"Fecal-oral; ingestion of contaminated food or water"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Traveler's Diarrhea","isCorrect":1},{"text":"Giardiasis","isCorrect":0}],"text":"Cfa (colonization factor antigen) - adherence; ST (heat stable toxin) - guanylate cyclase activation  high cGMP;"},
+            {"answers":[{"text":"Cholera","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Traveler's Diarrhea","isCorrect":0},{"text":"Giardiasis","isCorrect":0}],"text":"Tcp (toxin coregulated pilus) - adherence; Ctx (cholera toxin, AB-toxin, on lysogenic CTX phage) - ADP ribosylates G protein ⇨ constant activation of adenylate"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Traveler's Diarrhea","isCorrect":0},{"text":"Listeriosis","isCorrect":1}],"text":"Listeriolysin - pore-forming exotoxin"},
+            {"answers":[{"text":"Traveler's Diarrhea","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Giardiasis","isCorrect":1},{"text":"Listeriosis","isCorrect":0}],"text":"Infective form: Cyst ⇨ excystation in the small intestine ⇨Trophozoites attached to the mucosa by a ventral sucking disk ⇨ malabsorpion"},
+            {"answers":[{"text":"Cryptosporidiosis","isCorrect":1},{"text":"Giardiasis","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"Infective form: oocyst ⇨ excystation in the small intestine ⇨ sporozoites attached to mucosa and multiply → malabsorption"},
+            {"answers":[{"text":"Emetic gastroenteritis","isCorrect":1},{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":0},{"text":"Giardiasis","isCorrect":0}],"text":"Heat-stable enterotoxin (if spore survive cooking ⇨ germination + toxin production in non-refrigerated food)"},
+            {"answers":[{"text":"Clostridial food poisoning","isCorrect":1},{"text":"Giardiasis","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0}],"text":"Enterotoxin"},
+            {"answers":[{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0}],"text":"Heat-labile enterotoxin (germination of spore + toxin production in intestinal tract) "}
+        ]},
+
+        {"title":"Clinical presentation","questions":[
+            {"answers":[{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"Incubation time >6h - Watery diarrhea, nausea, abdominal cramps"},
+            {"answers":[{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":1}],"text":"Onset 8-24 h after ingestion - abdominal cramps, watery diarhea"},
+            {"answers":[{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Clostridial food poisoning","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":1},{"text":"Diarrheal gastroenteritis","isCorrect":0}],"text":"Onset <6h after ingestion - Vomiting, nausea, abdominal cramps"},
+            {"answers":[{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Emetic gastroenteritis","isCorrect":1},{"text":"Clostridial food poisoning","isCorrect":0}],"text":"Moderate to profuse diarrhea (immunocompromised patients)"},
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Chronic diarrhea","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Giardiasis","isCorrect":1}],"text":"Steatorrhea; Fatty, foul-smelling watery diarrhea"},
+            {"answers":[{"text":"Chronic diarrhea","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Listeriosis","isCorrect":1},{"text":"Giardiasis","isCorrect":0}],"text":"Asymptomatic; watery diarrhea (pregnancy and immunocompromised)"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Chronic diarrhea","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Cholera","isCorrect":1}],"text":"Profuse watery diarrhea; rice-water stools; severe dehydration"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Chronic diarrhea","isCorrect":1},{"text":"Listeriosis","isCorrect":0}],"text":"Chronic watery diarrhea (in AIDS patients), abdominal cramps"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Listeriosis","isCorrect":0},{"text":"Chronic diarrhea","isCorrect":0},{"text":"Cholera","isCorrect":1},{"text":"Giardiasis","isCorrect":0}],"text":"TCBS (Thiosulfate citrate bile salts sucrose agar) - yellow colonies"},
+            {"answers":[{"text":"Chronic diarrhea","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Listeriosis","isCorrect":1}],"text":"Culture, grwoth at 4°C"},
+            {"answers":[{"text":"Chronic diarrhea","isCorrect":0},{"text":"Giardiasis","isCorrect":1},{"text":"Cholera","isCorrect":0},{"text":"Listeriosis","isCorrect":0}],"text":"Cysts and trophozoites in stool"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Chronic diarrhea","isCorrect":1},{"text":"Listeriosis","isCorrect":0}],"text":"Culture, Immunassays (toxin detection)"},
+            {"answers":[{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Listeriosis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":1}],"text":"Isolation of organism from implicated food"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":1},{"text":"Listeriosis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":0}],"text":"Modified acid-fast oocysts in stool"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Watery diarrhea","isCorrect":1},{"text":"Listeriosis","isCorrect":0}],"text":"Self-limiting; if severe = fluoroquinolones (ciprofloxacin)"},
+            {"answers":[{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":0},{"text":"Giardiasis","isCorrect":0},{"text":"Cholera","isCorrect":1}],"text":"Doxycycline"},
+            {"answers":[{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Cholera","isCorrect":0},{"text":"Giardiasis","isCorrect":1},{"text":"Cryptosporidiosis","isCorrect":0}],"text":"Metronidazole"},
+            {"answers":[{"text":"Giardiasis","isCorrect":0},{"text":"Diarrheal gastroenteritis","isCorrect":0},{"text":"Cryptosporidiosis","isCorrect":1},{"text":"Cholera","isCorrect":0}],"text":"Nitazoxanide"}
+        ]}
+    ]},
+
+    {"title":"Large intestine diseases","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":0},{"text":"Dysentery","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":1},{"text":"Balantidiasis","isCorrect":0}],"text":"EHEC EnteroHemorrhagic E. coli (O157:H7)"},
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Dysentery","isCorrect":1}],"text":"EIEC EnteroInvasive E. coli"},
+            {"answers":[{"text":"Dysentery","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0}],"text":"Shigella spp. (S. sonnei common in US)"},
+            {"answers":[{"text":"Balantidiasis","isCorrect":1},{"text":"Amebiasis","isCorrect":0},{"text":"Dysentery-like diarrhea","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Balantidium coli"},
+            {"answers":[{"text":"Amebiasis","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Dysentery-like diarrhea","isCorrect":0}],"text":"Entamoeba histolytica"},
+            {"answers":[{"text":"Amebiasis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Dysentery-like diarrhea","isCorrect":1}],"text":"Yersinia enterocolitica"}
+        ]},
+
+        {"title":"Physical properties","questions":[
+            {"answers":[{"text":"Dysentery-like diarrhea","isCorrect":1},{"text":"Amebiasis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Motile; lactose(-)"},
+            {"answers":[{"text":"Amebiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":1},{"text":"Balantidiasis","isCorrect":0},{"text":"Dysentery-like diarrhea","isCorrect":0}],"text":"Motile; lactose(+), sorbitol(-)"},
+            {"answers":[{"text":"Dysentery-like diarrhea","isCorrect":0},{"text":"Balantidiasis","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Amebiasis","isCorrect":0}],"text":"Ciliate"},
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Dysentery-like diarrhea","isCorrect":0},{"text":"Amebiasis","isCorrect":1},{"text":"Balantidiasis","isCorrect":0}],"text":"Ameba"},
+            {"answers":[{"text":"Amebiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":1}],"text":"Non-motile; lactose(-)"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":1},{"text":"Balantidiasis","isCorrect":0}],"text":"Intestine of cattle"},
+            {"answers":[{"text":"Amebiasis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0}],"text":"Human's intestine"},
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Amebiasis","isCorrect":1}],"text":"Fecal-oral;Ingestion of contaminated food or water; Direct contact "},
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Balantidiasis","isCorrect":1}],"text":"Pigs"},
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Dysentery-like diarrhea","isCorrect":1},{"text":"Balantidiasis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0}],"text":"Animal's (poultry, et al) intestine"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Balantidiasis","isCorrect":0},{"text":"Dysentery-like diarrhea","isCorrect":1},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Fecal-oral; ingestion of contaminated food or water"},
+            {"answers":[{"text":"Balantidiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":1},{"text":"Dysentery-like diarrhea","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0}],"text":"Fecal-oral; ingestion of contaminated food or water"},
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":1}],"text":"Fecal-oral;Ingestion of contaminated food or water; Direct contact "},
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":1}],"text":"Fecal-oral; ingestion of contaminated food or water "}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":1}],"text":"Attaching & Effacing lesions; Shiga toxin (AB toxin) - cleaves 60S ribosome⇨blocks protein synthesis⇨cell death; circulating shiga toxin can bind to renal tissue ⇨renal failure (HUS)"},
+            {"answers":[{"text":"Dysentery","isCorrect":1},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Invasion (pInv genes) and destruction of colonic epithelium"},
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":1},{"text":"Balantidiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Dysentery","isCorrect":0}],"text":"Invasion (Ipa proteins) of colonic mucosa through M cells; Invade basal surface of enterocytes⇨cell death + inflammation; shiga-toxin (see above)"},
+            {"answers":[{"text":"Balantidiasis","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Dysentery","isCorrect":0},{"text":"Amebiasis","isCorrect":0}],"text":"Infective stage: cyst; excystation and multiplication of trophozoite in large intestine. Invasion of mucosa, strong inflammatory response"},
+            {"answers":[{"text":"Dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Infecive form: cyst⇨excystation in small intestine⇨trophozoites multiply and produce cysts in large intestine; possible invasion to extraintestinal sites via bloodstream "}
+        ]},
+
+        {"title":"Clinical features","questions":[
+            {"answers":[{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Dysentery","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Bloody diarrhea with pus, fever, abdominal cramps, nausea"},
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":1},{"text":"Dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":0}],"text":"Bloody diarrhea (no leucocytes), abdominal cramps, vomiting; oliguria+renal failure (HUS)"},
+            {"answers":[{"text":"Dysentery","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":1}],"text":"Persistent diarrhea, dysentery, abdominal pain (esp. in immunocomp.)"},
+            {"answers":[{"text":"Amebiasis","isCorrect":1},{"text":"Dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Amoebic dysentery;  Liver abscess, lung abscess, brain infection…"},
+            {"answers":[{"text":"Amebiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":1},{"text":"Balantidiasis","isCorrect":0}],"text":"Bloody diarrhea with pus, fever, abdominal cramps, nausea"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":1},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":0}],"text":"Culture on Sorbitol MacConkey agar (sorbitol(-)); Immunassays"},
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":1}],"text":"Diagnostic form: Cysts and trophozoites in stools;  Serology"},
+            {"answers":[{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Balantidiasis","isCorrect":1}],"text":"Diagnostic form: Cysts and trophozoites (macronucleus) in stools"},
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":1},{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":"Hektoen enteric agar: lac(-), H2S(-)⇨ green colonies"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Amebiasis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":1},{"text":"Bacillary dysentery","isCorrect":0}],"text":"Antibiotic therapy not recommended; dialysis in HUS cases"},
+            {"answers":[{"text":"Bacillary dysentery","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Amebiasis","isCorrect":0},{"text":"Balantidiasis","isCorrect":0}],"text":"Fluoroquinolones (ciprofloxacin)"},
+            {"answers":[{"text":"Balantidiasis","isCorrect":1},{"text":"Hemorrhagic Colitis","isCorrect":0},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Amebiasis","isCorrect":0}],"text":"Tetracycline"},
+            {"answers":[{"text":"Balantidiasis","isCorrect":0},{"text":"Amebiasis","isCorrect":1},{"text":"Bacillary dysentery","isCorrect":0},{"text":"Hemorrhagic Colitis","isCorrect":0}],"text":" Metronidazole"}
+        ]}
+    ]},
+
+    {"title":"Gastro-Intestinal Infections","available":false,"topics":[
+        {"title":"Organism","questions":[
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Typhoid fever","isCorrect":1}],"text":"Salmonella enterica Typhi*"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":1},{"text":"Botulism","isCorrect":0}],"text":"Helicobacter pylori"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":1},{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":0}],"text":"Clostridium difficile"},
+            {"answers":[{"text":"Gastritis","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Botulism","isCorrect":1}],"text":"Clostridium botulinum"}
+        ]},
+
+        {"title":"Physical properties","questions":[
+            {"answers":[{"text":"Botulism","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":1},{"text":"Gastritis","isCorrect":0}],"text":"Enterobacteriaceae; motile; lactose (-), H2S (+)"},
+            {"answers":[{"text":"Botulism","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":1}],"text":"Large GPR; Spore forming; Strict anaerobes"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Gastritis","isCorrect":1},{"text":"Botulism","isCorrect":0},{"text":"Typhoid fever","isCorrect":0}],"text":"Curved GNR; microaerophile; oxidase (+); catalase (+); urease (+)"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Botulism","isCorrect":1},{"text":"Gastritis","isCorrect":0}],"text":"Large GPR; Spore forming; Strict anaerobes"}
+        ]},
+
+        {"title":"Reservoir","questions":[
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Botulism","isCorrect":1},{"text":"Antibiotic-associated diarrhea","isCorrect":0}],"text":"Soil and water"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":1},{"text":"Botulism","isCorrect":0}],"text":"Vegetative form in human intestines Spore in environment (hospital rooms)"},
+            {"answers":[{"text":"Gastritis","isCorrect":0},{"text":"Typhoid fever","isCorrect":1},{"text":"Botulism","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0}],"text":"Humans only"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":1},{"text":"Botulism","isCorrect":0}],"text":"Stomach of humans and animals"}
+        ]},
+
+        {"title":"Transmission","questions":[
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":1},{"text":"Gastritis","isCorrect":0},{"text":"Botulism","isCorrect":0}],"text":"Fecal-oral; ingestion of contaminated food or water"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":1},{"text":"Gastritis","isCorrect":0}],"text":"Often endogenous infection"},
+            {"answers":[{"text":"Botulism","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Gastritis","isCorrect":1}],"text":"Fecal-oral; oral-oral"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Botulism","isCorrect":1},{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":0}],"text":"Ingestion of contaminated food (home canned goods, honey)"}
+        ]},
+
+        {"title":"Pathogenesis","questions":[
+            {"answers":[{"text":"Gastritis","isCorrect":1},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Botulism","isCorrect":0}],"text":"Mucous layer invasion (mucinase, flagella) + Alteration of gastric acid production (urease ⇨ ammonium production) ⇨Inflammation of gastric mucosa⇨Tissue destruction"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":1}],"text":"Exposure to antibiotics (clindamycin) ⇨ overgrowth of C.difficile; Toxin A - Enterotoxin: disrupts tight junctions between enterocytes + induces inflammation ⇨ watery diarrhea; Toxin B - cytotoxin: modification of enterocyte cytoskeleton ⇨ cell death +  mucus, blood & pus in stool"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Botulism","isCorrect":1}],"text":"Neurotoxin blocks release of acetylcholine, coded by lysogenic prophage"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Typhoid fever","isCorrect":1}],"text":"Invasion of M cells; Multiply in macrophages; bacteremia and invasion of RES (mesenteric lymph node, liver, spleen); infection of gallbladder (carrier state); Capsule (Vi polysaccharide); endotoxin"}
+            ]},
+
+        {"title":"Clinical features","questions":[
+            {"answers":[{"text":"Botulism","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":1},{"text":"Gastritis","isCorrect":0}],"text":"Sustained fever and headache; possible rose spots and/or diarrhea , dark stool; persistent bacteremia⇨ myocarditis, encephalopathy…"},
+            {"answers":[{"text":"Gastritis","isCorrect":1},{"text":"Botulism","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Typhoid fever","isCorrect":0}],"text":"Gastritis"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":1}],"text":"Watery diarrhea"},
+            {"answers":[{"text":"Gastritis","isCorrect":0},{"text":"Botulism","isCorrect":1},{"text":"Typhoid fever","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0}],"text":"Double vision, blurred, vision, flaccid paralysis"}
+        ]},
+
+        {"title":"Diagnosis","questions":[
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":1}],"text":"Biopsy=> silver stain microscopy, culture, urease test; Stool antigen test; Urea breath test"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":1},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Botulism","isCorrect":0}],"text":"Culture from blood (week 1) or feces (week 3)"},
+            {"answers":[{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":1},{"text":"Typhoid fever","isCorrect":0}],"text":"Immunoassays (toxins detection); colonoscopy  for pseudomembrane"},
+            {"answers":[{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Botulism","isCorrect":1},{"text":"Antibiotic-associated diarrhea","isCorrect":0}],"text":"Immunoassays for toxin detection"}
+        ]},
+
+        {"title":"Treatment","questions":[
+            {"answers":[{"text":"Botulism","isCorrect":1},{"text":"Typhoid fever","isCorrect":0},{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Gastritis","isCorrect":0}],"text":"Anti-toxin"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":1},{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Botulism","isCorrect":0}],"text":"Discontinue implicated antibiotic; Vancomycin or Metronidazole"},
+            {"answers":[{"text":"Antibiotic-associated diarrhea","isCorrect":0},{"text":"Botulism","isCorrect":0},{"text":"Gastritis","isCorrect":0},{"text":"Typhoid fever","isCorrect":1}],"text":"Fluoroquinolones (ciprofloxacin)"},
+            {"answers":[{"text":"Botulism","isCorrect":0},{"text":"Typhoid fever","isCorrect":0},{"text":"Gastritis","isCorrect":1},{"text":"Antibiotic-associated diarrhea","isCorrect":0}],"text":"Proton pump inhibitor + clarithromycin + amoxicillin"}
+        ]}
     ]}
+
+
 ]
