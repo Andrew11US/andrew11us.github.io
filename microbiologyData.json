@@ -111,5 +111,16 @@
             {"answers":[{"text":"Endemic Relapsing Fever","isCorrect":1},{"text":"Leptospirosis","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Epidemic Relapsing Fever","isCorrect":0}],"text":"Borrelia hermsii"},
             {"answers":[{"text":"Epidemic Relapsing Fever","isCorrect":0},{"text":"Lyme disease","isCorrect":0},{"text":"Leptospirosis","isCorrect":1},{"text":"Endemic Relapsing Fever","isCorrect":0}],"text":"Leptospira interrogans"}
         ]},
+    ]},
+
+    {"title":"Infective Endocarditis","available":false,"topics":[
+        {"title":"Characteristics","questions":[
+            {"answers":[{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":1}],"text":"GPC, clusters, catalase(+), coagluase(+), salt tolerant, mannitol(+)"},
+            {"answers":[{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":1},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"GPC, clusters, catalase(+), coagulase(-), salt tolerant, mannitol(-)"},
+            {"answers":[{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":1},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"GPC, chains, catalase(-)"},
+            {"answers":[{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Viridans Streptococci","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"Enterococcus faecalis","isCorrect":1}],"text":"GPC, single cells, diplococci or short chains, catalase(-), Lancefield antigen: group D"},
+            {"answers":[{"text":"Pseudomonas aeruginosa","isCorrect":1},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0},{"text":"HACEK group","isCorrect":0}],"text":"Aerobic GNR, motile, oxidase(+),Produces pigments  "},
+            {"answers":[{"text":"HACEK group","isCorrect":1},{"text":"Pseudomonas aeruginosa","isCorrect":0},{"text":"Staphylococcus epidermidis","isCorrect":0},{"text":"Staphylococcus aureus","isCorrect":0}],"text":"Aggregatibacter (Haemophilus) aphrophilus, Aggregatibacter actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae"}
+        ]}
     ]}
 ]
