@@ -64,5 +64,21 @@
             {"answers":[{"text":"Biofilm","isCorrect":0},{"text":"Flagella/axial filaments","isCorrect":0},{"text":"Lipopolysaccharide","isCorrect":0},{"text":"Endospores","isCorrect":1}],"text":"Survival in harsh environment"},
             {"answers":[{"text":"Endospores","isCorrect":0},{"text":"Flagella/axial filaments","isCorrect":0},{"text":"Biofilm","isCorrect":1},{"text":"Lipopolysaccharide","isCorrect":0}],"text":"Protection from phagocytosis, attachment"}
         ]}
+    ]},
+
+    {"title":"Parasitology","available":false,"topics":[
+        {"title":"Facts","questions":[
+            {"answers":[{"text":"Life cycle","isCorrect":0},{"text":"Definitive host","isCorrect":0},{"text":"Vector","isCorrect":1},{"text":"Intermediate host","isCorrect":0}],"text":"Animal that can transmit pathogen"},
+            {"answers":[{"text":"Definitive host","isCorrect":0},{"text":"Vector","isCorrect":0},{"text":"Intermediate host","isCorrect":0},{"text":"Life cycle","isCorrect":1}],"text":"Parasite develop stages"},
+            {"answers":[{"text":"Vector","isCorrect":0},{"text":"Intermediate host","isCorrect":0},{"text":"Definitive host","isCorrect":1},{"text":"Life cycle","isCorrect":0}],"text":"Host that contains sexually reproducing parasite"},
+            {"answers":[{"text":"Definitive host","isCorrect":1},{"text":"Vector","isCorrect":0},{"text":"Life cycle","isCorrect":0},{"text":"Intermediate host","isCorrect":0}],"text":"Host that contains the developing parasite"},
+            {"answers":[{"text":"Life cycle","isCorrect":0},{"text":"Vector","isCorrect":0},{"text":"Definitive host","isCorrect":0},{"text":"Diagnostic stage","isCorrect":1}],"text":"Parasitic stage used to identify organism"},
+            {"answers":[{"text":"Penetration of skin","isCorrect":1},{"text":"Food","isCorrect":1},{"text":"Sexual contact","isCorrect":1},{"text":"Water","isCorrect":1}],"text":"Transmission mechanisms"},
+            {"answers":[{"text":"Protozoa","isCorrect":1},{"text":"Cyst","isCorrect":0},{"text":"Amoeba","isCorrect":0},{"text":"Metazoa","isCorrect":1}],"text":"Parasite classification"},
+            {"answers":[{"text":"Cyst","isCorrect":0},{"text":"Flagellate","isCorrect":1},{"text":"Amoeba","isCorrect":1},{"text":"Amoeba","isCorrect":1}],"text":"Protozoa Classification"},
+            {"answers":[{"text":"Amoeba","isCorrect":0},{"text":"Cyst","isCorrect":1},{"text":"Trophozoite","isCorrect":1},{"text":"Amoeba","isCorrect":0}],"text":"Protozoa Morphology"},
+            {"answers":[{"text":"Trematodes","isCorrect":1},{"text":"Cyst","isCorrect":0},{"text":"Nematodes","isCorrect":1},{"text":"Cestodes","isCorrect":1}],"text":"Helminth Classification"},
+            {"answers":[{"text":"Antigenic variation","isCorrect":1},{"text":"Immunosuppression","isCorrect":1},{"text":"Molecular methods","isCorrect":0},{"text":"Masking","isCorrect":1}],"text":"Avoiding Immune Response"}
+        ]}
     ]}
 ]
