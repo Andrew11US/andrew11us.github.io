@@ -82,14 +82,5 @@
         ]}
     ]},
 
-    {"title":"Mycology","available":false,"topics":[
-        {"title":"Facts","questions":[
-            {"answers":[{"text":"Aseptate","isCorrect":1},{"text":"Cell wall contains chitin","isCorrect":1},{"text":"Septate","isCorrect":1},{"text":"Hyaline = colorless","isCorrect":1}],"text":"Structure"},
-            {"answers":[{"text":"Molds","isCorrect":1},{"text":"Asexual conidia","isCorrect":1},{"text":"Yeast","isCorrect":1},{"text":"Sexual spores","isCorrect":1}],"text":"Reproduction and Growth"},
-            {"answers":[{"text":"Superficial","isCorrect":0},{"text":"Dimorphic","isCorrect":1},{"text":"Multi-cellular","isCorrect":1},{"text":"Single-cell","isCorrect":1}],"text":"Fungal Classification"},
-            {"answers":[{"text":"Invasive","isCorrect":1},{"text":"Superficial","isCorrect":0},{"text":"Dimorphic","isCorrect":1},{"text":"Single-cell","isCorrect":0}],"text":"Pathogenesis"},
-            {"answers":[{"text":"Superficial","isCorrect":1},{"text":"Mold","isCorrect":0},{"text":"Cutaneous","isCorrect":1},{"text":"Microscopic","isCorrect":0}],"text":"Mycoses Classification"},
-            {"answers":[{"text":"Systemic","isCorrect":0},{"text":"Sabouraud agar","isCorrect":1},{"text":"PCR","isCorrect":1},{"text":"Mold","isCorrect":0}],"text":"Culture"}
-        ]}
-    ]}
+
 ]
