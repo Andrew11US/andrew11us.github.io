@@ -277,7 +277,7 @@ section
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #343093;
+	background-color: #3c83b4;
 	background-image: url('../images/index.jpg');
 	/* background: url('../images/index.png'), linear-gradient(to bottom right, #343093, #9141c7); */
 	background-repeat: no-repeat;
@@ -548,7 +548,7 @@ section
 	font-family: 'Verdana',sans-serif;
 	font-size: 14px;
 	font-weight: 100;
-	/* text-transform: uppercase; */
+	text-align: center;
 	color: #eedd3e;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -646,6 +646,7 @@ section
 	padding: 5px;
 	padding-left: 15px;
 	padding-right: 15px;
+	text-align: center;
 }
 .menu_submit a
 {
@@ -788,19 +789,6 @@ section
 	/* background-color: #F37441; */
 	background-color: #A4A4A4;
 }
-/* .github_button:hover
-{
-	background-color: #24292F;
-	border-width: 0;
-}
-.github_button:hover a
-{
-	color: white;
-}
-.github_button a
-{
-	color: #24292F;
-} */
 .appstore_button
 {
 	width: 150px;
@@ -899,7 +887,7 @@ section
 	font-size: 14px;
 	font-weight: 600;
 	/* text-align: right; */
-	color: black;
+	color: #477C80;
 }
 .show_title
 {
@@ -970,6 +958,12 @@ section
 .title_margin {
 	margin-top: 100px;
 	margin-bottom: 50px;
+}
+.text_centered {
+	text-align: center;
+}
+.social_items_paddings {
+	padding-top: 15px;
 }
 
 .show_info
@@ -1073,8 +1067,13 @@ section
 .home_bg {
 	background: aliceblue;
 }
+.home_open_bg {
+	/* background: linear-gradient(to right, #099773, #43b692); */
+	background: linear-gradient(to right, #49576a, #414449);
+}
 .home_experience_bg {
-	background: linear-gradient(to bottom right, #6c91dd, #d2e0ee);
+	/* background: linear-gradient(to bottom right, #4b95c8, #d2e2ee); */
+	background: linear-gradient(to bottom right, #efb755, #efe4d1);
 }
 .home_education_bg {
 	background: linear-gradient(to bottom right, #767a83, #333333);
