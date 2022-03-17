@@ -165,7 +165,8 @@ section
 .section_title h1
 {
 	font-size: 36px;
-	color: #1f2128;
+	/* color: #1f2128; */
+	color: #617597;
 	font-weight: 700;
 }
 .section_title h1 span
@@ -277,21 +278,23 @@ section
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #3c83b4;
+	background-color: #070d23;
 	background-image: url('../images/index.jpg');
 	/* background: url('../images/index.png'), linear-gradient(to bottom right, #343093, #9141c7); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
 }
-.bg_secondary_image
-{
+.bg_secondary_image {
 	position: absolute;
-	top: 0;
-	right: 0;
+	top: 25%;
+	right: 6%;
 	width: 50%;
 	height: 100%;
-	background-image: url('../images/index_secondary.png');
+	max-width: 400px;
+	max-height: 400px;
+	/* background-image: url('../images/index-secondary-mobile.svg'); */
+	background-image: url('../images/stand-with-ukraine.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -735,22 +738,26 @@ section
 }
 .home_title h1
 {
-	font-size: 42px;
-	color: #F4E282;
+	font-size: 52px;
+	color: white;
 	font-weight: bold;
 	text-transform: uppercase;
+
 	/* Text Gradient */
-	/* background: -webkit-linear-gradient(45deg, yellow, blue);
+	/* background: -webkit-linear-gradient(90deg, #ebfc2c, #106ee2);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; */
 }
-.home_subtitle
-{
-	font-size: 14px;
+.home_subtitle {
 	font-weight: 300;
-	color: white;
+	color: #798ba9;
 	line-height: 1.5;
 	margin-top: 14px;
+	max-width: 50%;
+}
+.home_subtitle h4 {
+	font-size: 22px;
+	line-height: 1.5;
 }
 .track
 {
@@ -955,6 +962,12 @@ section
 .about_text p {
 	font-size: 16px;
 	margin-top: 10px;
+	color: #617597;
+}
+.about_text_white p {
+	font-size: 16px;
+	margin-top: 10px;
+	color: white;
 }
 
 .project_margin {
@@ -1078,11 +1091,12 @@ section
 	background: linear-gradient(to right, #49576a, #414449);
 }
 .home_experience_bg {
-	background: linear-gradient(to bottom right, #4b95c8, #d2e2ee);
+	/* background: linear-gradient(to bottom right, #4b95c8, #d2e2ee); */
 	/* background: linear-gradient(to bottom right, #efb755, #efe4d1); */
+	background: radial-gradient(#9aa3ae, #223954);
 }
 .home_education_bg {
-	background: linear-gradient(to bottom right, #767a83, #333333);
+	background: radial-gradient(#c8ccd1, #767a83);
 }
 .projects_bg {
 	background: linear-gradient(to bottom right, #565b65, #2c2c2c);
