@@ -899,8 +899,15 @@ section
 {
 	font-size: 14px;
 	font-weight: 600;
-	/* text-align: right; */
 	color: #477C80;
+}
+.show_country
+{
+	margin-top: 10px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #617597;
+	line-height: 1.5;
 }
 .show_title
 {
@@ -1087,28 +1094,28 @@ section
 	background: aliceblue;
 }
 .home_open_bg {
-	/* background: linear-gradient(to right, #099773, #43b692); */
-	background: linear-gradient(to right, #49576a, #414449);
+	background: linear-gradient(to right, #095796, #ad4257);
 }
 .home_experience_bg {
-	/* background: linear-gradient(to bottom right, #4b95c8, #d2e2ee); */
-	/* background: linear-gradient(to bottom right, #efb755, #efe4d1); */
-	background: radial-gradient(#9aa3ae, #223954);
+	background: linear-gradient(to top left, #101822, #676A92);
 }
 .home_education_bg {
-	background: radial-gradient(#c8ccd1, #767a83);
+	background: linear-gradient(to top left, #385291, #a77788);
 }
 .projects_bg {
-	background: linear-gradient(to bottom right, #565b65, #2c2c2c);
+	background: linear-gradient(to bottom right, #5c6d81, #292626);
 }
 .revamp_bg {
-	background: linear-gradient(to top left, #296642, #68967b);
+	background: linear-gradient(to top left, #296642, #7b6896);
 }
 .finance_bg {
-	background: linear-gradient(to top left, #314b62, #3e6288);
+	background: linear-gradient(to top left, #6d90b9, #2c2825);
 }
 .microbiology_bg {
-	background: linear-gradient(to top left, #905a26, #d99758);
+	background: linear-gradient(to top left, #275a96, #9c5c49);
+}
+.safe_stay_bg {
+	background: linear-gradient(to bottom right, #4b92fc, #e2b9ec);
 }
 
 /*********************************
