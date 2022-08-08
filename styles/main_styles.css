@@ -279,7 +279,7 @@ section
 	width: 100%;
 	height: 100%;
 	background-color: #070d23;
-	background-image: url('../images/index.jpg');
+	background-image: url('../images/index5.jpg');
 	/* background: url('../images/index.png'), linear-gradient(to bottom right, #343093, #9141c7); */
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -291,10 +291,10 @@ section
 	right: 6%;
 	width: 50%;
 	height: 100%;
-	max-width: 400px;
+	max-width: 547px;
 	max-height: 400px;
-	/* background-image: url('../images/index-secondary-mobile.svg'); */
-	background-image: url('../images/stand-with-ukraine.svg');
+	background-image: url('../images/index-secondary-mobile2.svg');
+	/* background-image: url('../images/stand-with-ukraine.svg'); */
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -436,7 +436,7 @@ section
 	height: 100%;
 	font-size: 30px;
 	font-weight: 500;
-	color: white;
+	color: #181B20;
 }
 .logo a span
 {
@@ -456,12 +456,12 @@ section
 {
 	font-size: 15px;
 	font-weight: 600;
-	color: white;
+	color: #181B20;
 	/* text-transform: uppercase; */
 }
 .main_nav ul li a:hover
 {
-	color: #eedd3e;
+	color: #EFAE3D;
 	/* font-weight: bold; */
 	/* border-radius: 11px;
 	background-color: white;
@@ -498,6 +498,7 @@ section
 {
 	/* border-color: #ffeaa7; */
 	background-color: #3386F5;
+	color: white;
 }
 .social ul li a
 {
@@ -509,7 +510,7 @@ section
 .social ul li a i
 {
 	font-size: 16px;
-	color: white;
+	color: #181B20;
 	line-height: 30px;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -532,7 +533,7 @@ section
 .submit
 {
 	height: 32px;
-	border: solid 1px #eedd3e;
+	border: solid 1px #181B20;
 	/* background: #3386F5; */
 	border-radius: 16px;
 	margin-right: 19px;
@@ -552,7 +553,7 @@ section
 	font-size: 14px;
 	font-weight: 100;
 	text-align: center;
-	color: #eedd3e;
+	color: #181B20;
 	padding-left: 20px;
 	padding-right: 20px;
 }
@@ -739,7 +740,7 @@ section
 .home_title h1
 {
 	font-size: 52px;
-	color: white;
+	color: #181B20;
 	font-weight: bold;
 	text-transform: uppercase;
 
@@ -750,7 +751,7 @@ section
 }
 .home_subtitle {
 	font-weight: 300;
-	color: #798ba9;
+	color: #181B20;
 	line-height: 1.5;
 	margin-top: 14px;
 	max-width: 50%;
