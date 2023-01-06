@@ -378,6 +378,17 @@ section
 	text-transform: uppercase;
 }
 
+.button_squared
+{
+	border-radius: 7px;
+}
+.button_squared a
+{
+	display: flex;
+	justify-content: center;
+	width: 250px;
+}
+
 .shadow:hover
 {
 	background: #2e3038;
@@ -1075,6 +1086,16 @@ section
 }
 .microbiology_bg {
 	background: #F0C7A8;
+}
+.random_generator_bg {
+	background: #9bc9da;
+	/* background: #ffffbf; */
+}
+.portable_calculator_bg {
+	background: #a8d9d7;
+}
+.weather_gps_bg {
+	background: #bed7f5;
 }
 .safe_stay_bg {
 	background: #C1B3EB;
