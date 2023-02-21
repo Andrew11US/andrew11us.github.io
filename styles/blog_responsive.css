@@ -66,14 +66,7 @@
 
 @media only screen and (max-width: 1199px)
 {
-	.main_nav
-	{
-		display: none;
-	}
-	.hamburger
-	{
-		display: block;
-	}
+
 }
 
 /************
@@ -91,7 +84,14 @@
 
 @media only screen and (max-width: 1024px)
 {
-	
+	.main_nav
+	{
+		display: none;
+	}
+	.hamburger
+	{
+		display: block;
+	}
 }
 
 /************
