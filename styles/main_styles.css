@@ -1063,17 +1063,17 @@ section
 *********************************/
 
 .home_bg {
-	/* background: aliceblue; */
+	background: aliceblue;
 }
 .home_open_bg {
-	background: #B5C6E1;
-	/* border: solid 3px orange; */
+	background: white;
+	border: solid 3px #db5d80;
 }
 .home_experience_bg {
 	background: #F0DFC7;
 }
 .home_education_bg {
-	background: #B6D9E4;
+	background: #b7c4e4;
 }
 .projects_bg {
 	background: #F0DFC7;
