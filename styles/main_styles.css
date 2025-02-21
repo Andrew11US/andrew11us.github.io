@@ -278,8 +278,8 @@ section
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #B2C6E4;
-	/* background-image: url('../images/index.jpg'); */
+	background-color: aliceblue;
+	background-image: url('../images/index.png');
 	/* background: url('../images/index.png'), linear-gradient(to bottom right, #343093, #9141c7); */
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -815,12 +815,13 @@ section
 	margin-bottom: 50px;
 }
 .show {
+	border: solid #b8d3e4 1px;
 	border-radius: 25px;
 	overflow: hidden;
 	background: white;
 }
 .show:hover {
-	box-shadow: 0px 0px 30px rgba(0,0,0,0.35);
+	box-shadow: 0px 0px 30px rgba(0,0,0,0.15);
 	transform: scale(1.05);
 }
 
@@ -846,6 +847,9 @@ section
 	padding-left: 31px;
 	padding-bottom: 22px;
 	padding-right: 30px;
+}
+.home_education_bg .show {
+    background: #e2f3fe;
 }
 .show_tags
 {
@@ -1066,17 +1070,17 @@ section
 	background: aliceblue;
 }
 .home_open_bg {
-	background: white;
-	border: solid 3px #db5d80;
+	background: #ffecf3;
+	border: solid 1px #db5d80;
 }
 .home_experience_bg {
-	background: #F0DFC7;
+	background: aliceblue;
 }
 .home_education_bg {
-	background: #b7c4e4;
+	background: aliceblue;
 }
 .projects_bg {
-	background: #F0DFC7;
+	background: aliceblue;
 }
 .revamp_bg {
 	background: #93C3B1;
@@ -1094,7 +1098,7 @@ section
 	background: #a8d9d7;
 }
 .weather_gps_bg {
-	background: #f5cbea;
+	background: #b7d8f7;
 }
 .safe_stay_bg {
 	background: #C1B3EB;
