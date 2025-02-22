@@ -1083,26 +1083,25 @@ section
 	background: aliceblue;
 }
 .revamp_bg {
-	background: #93C3B1;
+	background: linear-gradient(to bottom, #93C3B1, aliceblue);
 }
 .finance_bg {
-	background: #AFBCD3;
+	background: linear-gradient(to bottom, #AFBCD3, aliceblue);
 }
 .microbiology_bg {
-	background: #F0C7A8;
+	background: linear-gradient(to bottom, #F1CCA8, aliceblue);
 }
 .random_generator_bg {
-	background: #e7e4bd;
+	background: linear-gradient(to bottom, #f8de93, aliceblue);
 }
 .portable_calculator_bg {
-	background: #a8d9d7;
+	background: linear-gradient(to bottom, #73c9c6, aliceblue);
 }
 .weather_gps_bg {
-	background: #b7d8f7;
+	background: linear-gradient(to bottom, #8bb4f7, aliceblue);
 }
 .safe_stay_bg {
-	background: #C1B3EB;
-	/* background: linear-gradient(to bottom right, #4b92fc, #e2b9ec); */
+	background: linear-gradient(to bottom, #8dacf1, aliceblue);
 }
 
 /*********************************
